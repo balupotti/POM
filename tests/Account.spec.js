@@ -62,7 +62,7 @@ test ("Account Create", async({page}) => {
   //  await page.waitForTimeout(3000)
 
     const CNP = await page.locator('//input[@id="customer.password"]')
-    await CNP.fill("Rahul@2003")
+    await CNP.fill("Rahul")
     const J=await CNP.inputValue()
     console.log(J)
   //  await page.waitForTimeout(3000)
