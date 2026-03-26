@@ -9,7 +9,7 @@ test ('zepto', async({page}) => {
    await page.locator('//span[text()="Mobiles"]').click()
    await page.locator('(//span[@class="c2zll"])[7]').click()
    await page.locator('//a[@aria-label="go to Tablet"]').click()
-   await page.waitForTimeout(3000)
+   await page.waitForTimeout(30000)
    await page.goBack()
    await page.waitForTimeout(3000)
    await page.goForward()
