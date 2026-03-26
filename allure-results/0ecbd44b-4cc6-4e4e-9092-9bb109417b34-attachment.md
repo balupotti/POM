@@ -1,0 +1,474 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link "image not displaying" [ref=e7]:
+        - /url: http://www.automationtesting.in
+        - img "image not displaying" [ref=e8]
+      - heading "Automation Demo Site" [level=1] [ref=e10]
+    - navigation [ref=e11]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "Home" [ref=e16]:
+            - /url: Index.html
+        - listitem [ref=e17]:
+          - link "Register" [ref=e18]:
+            - /url: Register.html
+        - listitem [ref=e19]:
+          - link "WebTable" [ref=e20]:
+            - /url: WebTable.html
+        - listitem [ref=e21]:
+          - link "SwitchTo" [ref=e22]:
+            - /url: SwitchTo.html
+          - generic [ref=e23]: 
+        - listitem [ref=e24]:
+          - link "Widgets" [ref=e25]:
+            - /url: Widgets.html
+          - generic [ref=e26]: 
+        - listitem [ref=e27]:
+          - link "Interactions" [ref=e28]:
+            - /url: Interactions.html
+          - generic [ref=e29]: 
+        - listitem [ref=e30]:
+          - link "Video" [ref=e31]:
+            - /url: SwitchTo.html
+          - generic [ref=e32]: 
+        - listitem [ref=e33]:
+          - link "WYSIWYG" [ref=e34]:
+            - /url: WYSIWYG.html
+          - generic [ref=e35]: 
+        - listitem [ref=e36]:
+          - link "More" [ref=e37]:
+            - /url: "#"
+          - generic [ref=e38]: 
+        - listitem [ref=e39]:
+          - link "Practice Site" [ref=e40]:
+            - /url: http://practice.automationtesting.in/
+  - generic [ref=e42]:
+    - heading "Register" [level=2] [ref=e43]
+    - generic [ref=e44]:
+      - insertion [ref=e46]:
+        - iframe [ref=e48]:
+          - generic [active] [ref=f2e1]:
+            - generic [ref=f2e7]:
+              - generic [ref=f2e9]:
+                - link "Google Chrome" [ref=f2e12] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CDNhQFODEabm0MbjOs8IP8o_twQ3Jie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSGAk_Q4xn9aSv0S7TPw7Wd5DtBIQZjJNAE0hH_kanM-lxa-SDfobGURNsmL8hWXLiBvAAeWF0kxBxEanOtvLH7ttNlvYc1vjCGzEg-Pe_6YZfljt09CkPurRjnrdbmx3442MZlA3zE2y9fHFkYy8kZKQs8RjgpDjrgX7HsGbbo4BcaEjY861xPbA6MN5tFrn5bU-tQ_fkZ-LNz9NwWgXKkiIkn7wsEZ2Ewrv3UY7dFDkdPh-MVJStofl4XQAbn_rLxH8Veno7omfvasxvJzqfGdSMpzPoxQDOBT9h41WG76RGxeThseSfZrBBlKteRnpttznYbStxDpXmHy98ZkZzrizFdylGGk77ABOyW14TLBYgFs8D3o1eAB-OJzSKoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQKoB8LIsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1otShhb2TA5oJKmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2hyb21lL2RyL2Rvd25sb2FkL7EJSy4tBLJWCIKACgHICwHgCwGiDAOQAQGqDQJJTsgNAeoNEwimldahhb2TAxU450wCHfJHO9iIDgnYEwyIFALQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgo2NjM4NjMzNTQ3UAa6FwI4AaoYFwkAAAAAKDYVQRIKNjYzODYzMzU0NxgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMIuY7WoYW9kwMVOOdMAh3yRzvYEAEYASAAEgKLFvD_BwE&num=1&cid=CAQS_QEABaugfe-s0Ut9QxCEpQxfFgW4Q2UW9pdA1xlbQLgiQLXqeiZ4MKrk_paUUH6JMXqWAnZ78ZoBe8mm9-nIN2C_JQgs8TxOuG8wXhlYgaV8IS4HO6PCX8snMtuWw4RjHH6BxXPgpHfwPnjka3T5HAf--c6BTF7fL-CXPxGHeveofxLMBIV5Z2JAXcM_amPp197W5DQqmjbIFFvM-m3rBXAhAIHGsW0yocKtnmdLlC_Sqy2uI5CigOqsxNqa9uK7yZfkAshQI5ueB7ws6A0SY93bVj87DCWc2aQln-avOY46xkjpD43bV-ZblCIntSQVwXi4AC2IPNkQq7V-8NYqGAE&sig=AOD64_34EQj5NTjxfSdMNpE4lJcM3D96Wg&client=ca-pub-9173866185064071&rf=1&nb=19&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+                  - img "Google Chrome" [ref=f2e13]
+                - generic "Google Chrome" [ref=f2e14]:
+                  - link "Download Chrome" [ref=f2e15] [cursor=pointer]:
+                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CDNhQFODEabm0MbjOs8IP8o_twQ3Jie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSGAk_Q4xn9aSv0S7TPw7Wd5DtBIQZjJNAE0hH_kanM-lxa-SDfobGURNsmL8hWXLiBvAAeWF0kxBxEanOtvLH7ttNlvYc1vjCGzEg-Pe_6YZfljt09CkPurRjnrdbmx3442MZlA3zE2y9fHFkYy8kZKQs8RjgpDjrgX7HsGbbo4BcaEjY861xPbA6MN5tFrn5bU-tQ_fkZ-LNz9NwWgXKkiIkn7wsEZ2Ewrv3UY7dFDkdPh-MVJStofl4XQAbn_rLxH8Veno7omfvasxvJzqfGdSMpzPoxQDOBT9h41WG76RGxeThseSfZrBBlKteRnpttznYbStxDpXmHy98ZkZzrizFdylGGk77ABOyW14TLBYgFs8D3o1eAB-OJzSKoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQKoB8LIsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1otShhb2TA5oJKmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2hyb21lL2RyL2Rvd25sb2FkL7EJSy4tBLJWCIKACgHICwHgCwGiDAOQAQGqDQJJTsgNAeoNEwimldahhb2TAxU450wCHfJHO9iIDgnYEwyIFALQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgo2NjM4NjMzNTQ3UAa6FwI4AaoYFwkAAAAAKDYVQRIKNjYzODYzMzU0NxgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMIuY7WoYW9kwMVOOdMAh3yRzvYEAEYASAAEgKLFvD_BwE&num=1&cid=CAQS_QEABaugfe-s0Ut9QxCEpQxfFgW4Q2UW9pdA1xlbQLgiQLXqeiZ4MKrk_paUUH6JMXqWAnZ78ZoBe8mm9-nIN2C_JQgs8TxOuG8wXhlYgaV8IS4HO6PCX8snMtuWw4RjHH6BxXPgpHfwPnjka3T5HAf--c6BTF7fL-CXPxGHeveofxLMBIV5Z2JAXcM_amPp197W5DQqmjbIFFvM-m3rBXAhAIHGsW0yocKtnmdLlC_Sqy2uI5CigOqsxNqa9uK7yZfkAshQI5ueB7ws6A0SY93bVj87DCWc2aQln-avOY46xkjpD43bV-ZblCIntSQVwXi4AC2IPNkQq7V-8NYqGAE&sig=AOD64_34EQj5NTjxfSdMNpE4lJcM3D96Wg&client=ca-pub-9173866185064071&rf=1&nb=0&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+                    - text: Download
+                    - text: Chrome
+                - link "Browse securely with Chrome's built-in protection from malware, phishing, and other scams." [ref=f2e17] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CDNhQFODEabm0MbjOs8IP8o_twQ3Jie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSGAk_Q4xn9aSv0S7TPw7Wd5DtBIQZjJNAE0hH_kanM-lxa-SDfobGURNsmL8hWXLiBvAAeWF0kxBxEanOtvLH7ttNlvYc1vjCGzEg-Pe_6YZfljt09CkPurRjnrdbmx3442MZlA3zE2y9fHFkYy8kZKQs8RjgpDjrgX7HsGbbo4BcaEjY861xPbA6MN5tFrn5bU-tQ_fkZ-LNz9NwWgXKkiIkn7wsEZ2Ewrv3UY7dFDkdPh-MVJStofl4XQAbn_rLxH8Veno7omfvasxvJzqfGdSMpzPoxQDOBT9h41WG76RGxeThseSfZrBBlKteRnpttznYbStxDpXmHy98ZkZzrizFdylGGk77ABOyW14TLBYgFs8D3o1eAB-OJzSKoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQKoB8LIsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1otShhb2TA5oJKmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2hyb21lL2RyL2Rvd25sb2FkL7EJSy4tBLJWCIKACgHICwHgCwGiDAOQAQGqDQJJTsgNAeoNEwimldahhb2TAxU450wCHfJHO9iIDgnYEwyIFALQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgo2NjM4NjMzNTQ3UAa6FwI4AaoYFwkAAAAAKDYVQRIKNjYzODYzMzU0NxgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMIuY7WoYW9kwMVOOdMAh3yRzvYEAEYASAAEgKLFvD_BwE&num=1&cid=CAQS_QEABaugfe-s0Ut9QxCEpQxfFgW4Q2UW9pdA1xlbQLgiQLXqeiZ4MKrk_paUUH6JMXqWAnZ78ZoBe8mm9-nIN2C_JQgs8TxOuG8wXhlYgaV8IS4HO6PCX8snMtuWw4RjHH6BxXPgpHfwPnjka3T5HAf--c6BTF7fL-CXPxGHeveofxLMBIV5Z2JAXcM_amPp197W5DQqmjbIFFvM-m3rBXAhAIHGsW0yocKtnmdLlC_Sqy2uI5CigOqsxNqa9uK7yZfkAshQI5ueB7ws6A0SY93bVj87DCWc2aQln-avOY46xkjpD43bV-ZblCIntSQVwXi4AC2IPNkQq7V-8NYqGAE&sig=AOD64_34EQj5NTjxfSdMNpE4lJcM3D96Wg&client=ca-pub-9173866185064071&rf=1&nb=7&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+                  - text: Browse securely
+                  - text: with Chrome's
+                  - text: built-in
+                  - text: protection from
+                  - text: malware,
+                  - text: phishing, and
+                  - text: other scams.
+                - generic "Google Chrome" [ref=f2e18]:
+                  - link "Google Chrome" [ref=f2e19] [cursor=pointer]:
+                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CDNhQFODEabm0MbjOs8IP8o_twQ3Jie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSGAk_Q4xn9aSv0S7TPw7Wd5DtBIQZjJNAE0hH_kanM-lxa-SDfobGURNsmL8hWXLiBvAAeWF0kxBxEanOtvLH7ttNlvYc1vjCGzEg-Pe_6YZfljt09CkPurRjnrdbmx3442MZlA3zE2y9fHFkYy8kZKQs8RjgpDjrgX7HsGbbo4BcaEjY861xPbA6MN5tFrn5bU-tQ_fkZ-LNz9NwWgXKkiIkn7wsEZ2Ewrv3UY7dFDkdPh-MVJStofl4XQAbn_rLxH8Veno7omfvasxvJzqfGdSMpzPoxQDOBT9h41WG76RGxeThseSfZrBBlKteRnpttznYbStxDpXmHy98ZkZzrizFdylGGk77ABOyW14TLBYgFs8D3o1eAB-OJzSKoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQKoB8LIsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1otShhb2TA5oJKmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2hyb21lL2RyL2Rvd25sb2FkL7EJSy4tBLJWCIKACgHICwHgCwGiDAOQAQGqDQJJTsgNAeoNEwimldahhb2TAxU450wCHfJHO9iIDgnYEwyIFALQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgo2NjM4NjMzNTQ3UAa6FwI4AaoYFwkAAAAAKDYVQRIKNjYzODYzMzU0NxgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMIuY7WoYW9kwMVOOdMAh3yRzvYEAEYASAAEgKLFvD_BwE&num=1&cid=CAQS_QEABaugfe-s0Ut9QxCEpQxfFgW4Q2UW9pdA1xlbQLgiQLXqeiZ4MKrk_paUUH6JMXqWAnZ78ZoBe8mm9-nIN2C_JQgs8TxOuG8wXhlYgaV8IS4HO6PCX8snMtuWw4RjHH6BxXPgpHfwPnjka3T5HAf--c6BTF7fL-CXPxGHeveofxLMBIV5Z2JAXcM_amPp197W5DQqmjbIFFvM-m3rBXAhAIHGsW0yocKtnmdLlC_Sqy2uI5CigOqsxNqa9uK7yZfkAshQI5ueB7ws6A0SY93bVj87DCWc2aQln-avOY46xkjpD43bV-ZblCIntSQVwXi4AC2IPNkQq7V-8NYqGAE&sig=AOD64_34EQj5NTjxfSdMNpE4lJcM3D96Wg&client=ca-pub-9173866185064071&rf=1&nb=1&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+              - link "Download" [ref=f2e22] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CDNhQFODEabm0MbjOs8IP8o_twQ3Jie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSGAk_Q4xn9aSv0S7TPw7Wd5DtBIQZjJNAE0hH_kanM-lxa-SDfobGURNsmL8hWXLiBvAAeWF0kxBxEanOtvLH7ttNlvYc1vjCGzEg-Pe_6YZfljt09CkPurRjnrdbmx3442MZlA3zE2y9fHFkYy8kZKQs8RjgpDjrgX7HsGbbo4BcaEjY861xPbA6MN5tFrn5bU-tQ_fkZ-LNz9NwWgXKkiIkn7wsEZ2Ewrv3UY7dFDkdPh-MVJStofl4XQAbn_rLxH8Veno7omfvasxvJzqfGdSMpzPoxQDOBT9h41WG76RGxeThseSfZrBBlKteRnpttznYbStxDpXmHy98ZkZzrizFdylGGk77ABOyW14TLBYgFs8D3o1eAB-OJzSKoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQKoB8LIsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlj1otShhb2TA5oJKmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2hyb21lL2RyL2Rvd25sb2FkL7EJSy4tBLJWCIKACgHICwHgCwGiDAOQAQGqDQJJTsgNAeoNEwimldahhb2TAxU450wCHfJHO9iIDgnYEwyIFALQFQGYFgHKFgIKAPgWAYAXAbIXEBgBKgo2NjM4NjMzNTQ3UAa6FwI4AaoYFwkAAAAAKDYVQRIKNjYzODYzMzU0NxgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMIuY7WoYW9kwMVOOdMAh3yRzvYEAEYASAAEgKLFvD_BwE&num=1&cid=CAQS_QEABaugfe-s0Ut9QxCEpQxfFgW4Q2UW9pdA1xlbQLgiQLXqeiZ4MKrk_paUUH6JMXqWAnZ78ZoBe8mm9-nIN2C_JQgs8TxOuG8wXhlYgaV8IS4HO6PCX8snMtuWw4RjHH6BxXPgpHfwPnjka3T5HAf--c6BTF7fL-CXPxGHeveofxLMBIV5Z2JAXcM_amPp197W5DQqmjbIFFvM-m3rBXAhAIHGsW0yocKtnmdLlC_Sqy2uI5CigOqsxNqa9uK7yZfkAshQI5ueB7ws6A0SY93bVj87DCWc2aQln-avOY46xkjpD43bV-ZblCIntSQVwXi4AC2IPNkQq7V-8NYqGAE&sig=AOD64_34EQj5NTjxfSdMNpE4lJcM3D96Wg&client=ca-pub-9173866185064071&rf=1&nb=8&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+                - generic [ref=f2e25]:
+                  - generic [ref=f2e26]: Download
+                  - img [ref=f2e27]
+            - img [ref=f2e32] [cursor=pointer]
+            - button [ref=f2e34] [cursor=pointer]:
+              - img [ref=f2e35]
+            - iframe
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]: Full Name*
+          - textbox "First Name" [ref=e54]: Raja
+          - textbox "Last Name" [ref=e56]: Saab
+        - generic [ref=e57]:
+          - generic [ref=e58]: Address
+          - textbox [ref=e60]: Velachary, Chennai City
+        - generic [ref=e61]:
+          - generic [ref=e62]: Email address*
+          - textbox [ref=e64]: Rajasaab@gmail.com
+        - generic [ref=e65]:
+          - generic [ref=e66]: Phone*
+          - textbox [ref=e68]: "123456789"
+        - generic [ref=e69]:
+          - generic [ref=e70]: Gender*
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - radio "Male" [checked] [ref=e73]
+              - text: Male
+            - generic [ref=e74]:
+              - radio "FeMale" [ref=e75]
+              - text: FeMale
+        - generic [ref=e76]:
+          - generic [ref=e77]: Hobbies
+          - generic [ref=e78]:
+            - generic [ref=e79]:
+              - checkbox [ref=e80]
+              - generic [ref=e81]: Cricket
+            - generic [ref=e82]:
+              - checkbox [checked] [ref=e83]
+              - generic [ref=e84]: Movies
+            - generic [ref=e85]:
+              - checkbox [ref=e86]
+              - generic [ref=e87]: Hockey
+        - generic [ref=e88]:
+          - generic [ref=e89]: Languages
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e93]: English
+              - generic [ref=e95]: Danish
+            - list [ref=e97] [cursor=pointer]:
+              - listitem [ref=e98]: Arabic
+              - listitem [ref=e99]: Bulgarian
+              - listitem [ref=e100]: Catalan
+              - listitem [ref=e101]: Croatian
+              - listitem [ref=e102]: Czech
+              - listitem [ref=e103]: Dutch
+              - listitem [ref=e104]: Estonian
+              - listitem [ref=e105]: Filipino
+              - listitem [ref=e106]: Finnish
+              - listitem [ref=e107]: French
+              - listitem [ref=e108]: German
+              - listitem [ref=e109]: Greek
+              - listitem [ref=e110]: Hebrew
+              - listitem [ref=e111]: Hindi
+              - listitem [ref=e112]: Hungarian
+              - listitem [ref=e113]: Icelandic
+              - listitem [ref=e114]: Indonesian
+              - listitem [ref=e115]: Italian
+              - listitem [ref=e116]: Japanese
+              - listitem [ref=e117]: Korean
+              - listitem [ref=e118]: Latvian
+              - listitem [ref=e119]: Lithuanian
+              - listitem [ref=e120]: Malay
+              - listitem [ref=e121]: Norwegian
+              - listitem [ref=e122]: Persian
+              - listitem [ref=e123]: Polish
+              - listitem [ref=e124]: Portuguese
+              - listitem [ref=e125]: Romanian
+              - listitem [ref=e126]: Russian
+              - listitem [ref=e127]: Serbian
+              - listitem [ref=e128]: Slovak
+              - listitem [ref=e129]: Slovenian
+              - listitem [ref=e130]: Spanish
+              - listitem [ref=e131]: Swedish
+              - listitem [ref=e132]: Thai
+              - listitem [ref=e133]: Turkish
+              - listitem [ref=e134]: Ukrainian
+              - listitem [ref=e135]: Urdu
+              - listitem [ref=e136]: Vietnamese
+        - generic [ref=e137]:
+          - generic [ref=e138]: Skills
+          - combobox [ref=e140]:
+            - option "Select Skills" [selected]
+            - option "Adobe InDesign"
+            - option "Adobe Photoshop"
+            - option "Analytics"
+            - option "Android"
+            - option "APIs"
+            - option "Art Design"
+            - option "AutoCAD"
+            - option "Backup Management"
+            - option "C"
+            - option "C++"
+            - option "Certifications"
+            - option "Client Server"
+            - option "Client Support"
+            - option "Configuration"
+            - option "Content Managment"
+            - option "Content Management Systems (CMS)"
+            - option "Corel Draw"
+            - option "Corel Word Perfect"
+            - option "CSS"
+            - option "Data Analytics"
+            - option "Desktop Publishing"
+            - option "Design"
+            - option "Diagnostics"
+            - option "Documentation"
+            - option "End User Support"
+            - option "Email"
+            - option "Engineering"
+            - option "Excel"
+            - option "FileMaker Pro"
+            - option "Fortran"
+            - option "HTML"
+            - option "Implementation"
+            - option "Installation"
+            - option "Internet"
+            - option "iOS"
+            - option "iPhone"
+            - option "Linux"
+            - option "Java"
+            - option "Javascript"
+            - option "Mac"
+            - option "Matlab"
+            - option "Maya"
+            - option "Microsoft Excel"
+            - option "Microsoft Office"
+            - option "Microsoft Outlook"
+            - option "Microsoft Publisher"
+            - option "Microsoft Word"
+            - option "Microsoft Visual"
+            - option "Mobile"
+            - option "MySQL"
+            - option "Networks"
+            - option "Open Source Software"
+            - option "Oracle"
+            - option "Perl"
+            - option "PHP"
+            - option "Presentations"
+            - option "Processing"
+            - option "Programming"
+            - option "PT Modeler"
+            - option "Python"
+            - option "QuickBooks"
+            - option "Ruby"
+            - option "Shade"
+            - option "Software"
+            - option "Spreadsheet"
+            - option "SQL"
+            - option "Support"
+            - option "Systems Administration"
+            - option "Tech Support"
+            - option "Troubleshooting"
+            - option "Unix"
+            - option "UI / UX"
+            - option "Web Page Design"
+            - option "Windows"
+            - option "Word Processing"
+            - option "XML"
+            - option "XHTML"
+        - generic [ref=e141]:
+          - generic [ref=e142]: Country*
+          - combobox [ref=e144]:
+            - option "Select Country" [selected]
+        - generic [ref=e145]:
+          - generic [ref=e146]: "Select Country :"
+          - generic [ref=e147]:
+            - combobox [ref=e148]
+            - combobox [ref=e151] [cursor=pointer]
+        - generic [ref=e152]:
+          - generic [ref=e153]: Date Of Birth
+          - combobox [ref=e155]:
+            - option "year" [selected]
+            - option "1916"
+            - option "1917"
+            - option "1918"
+            - option "1919"
+            - option "1920"
+            - option "1921"
+            - option "1922"
+            - option "1923"
+            - option "1924"
+            - option "1925"
+            - option "1926"
+            - option "1927"
+            - option "1928"
+            - option "1929"
+            - option "1930"
+            - option "1931"
+            - option "1932"
+            - option "1933"
+            - option "1934"
+            - option "1935"
+            - option "1936"
+            - option "1937"
+            - option "1938"
+            - option "1939"
+            - option "1940"
+            - option "1941"
+            - option "1942"
+            - option "1943"
+            - option "1944"
+            - option "1945"
+            - option "1946"
+            - option "1947"
+            - option "1948"
+            - option "1949"
+            - option "1950"
+            - option "1951"
+            - option "1952"
+            - option "1953"
+            - option "1954"
+            - option "1955"
+            - option "1956"
+            - option "1957"
+            - option "1958"
+            - option "1959"
+            - option "1960"
+            - option "1961"
+            - option "1962"
+            - option "1963"
+            - option "1964"
+            - option "1965"
+            - option "1966"
+            - option "1967"
+            - option "1968"
+            - option "1969"
+            - option "1970"
+            - option "1971"
+            - option "1972"
+            - option "1973"
+            - option "1974"
+            - option "1975"
+            - option "1976"
+            - option "1977"
+            - option "1978"
+            - option "1979"
+            - option "1980"
+            - option "1981"
+            - option "1982"
+            - option "1983"
+            - option "1984"
+            - option "1985"
+            - option "1986"
+            - option "1987"
+            - option "1988"
+            - option "1989"
+            - option "1990"
+            - option "1991"
+            - option "1992"
+            - option "1993"
+            - option "1994"
+            - option "1995"
+            - option "1996"
+            - option "1997"
+            - option "1998"
+            - option "1999"
+            - option "2000"
+            - option "2001"
+            - option "2002"
+            - option "2003"
+            - option "2004"
+            - option "2005"
+            - option "2006"
+            - option "2007"
+            - option "2008"
+            - option "2009"
+            - option "2010"
+            - option "2011"
+            - option "2012"
+            - option "2013"
+            - option "2014"
+            - option "2015"
+          - combobox [ref=e157]:
+            - option "Month" [selected]
+            - option "January"
+            - option "February"
+            - option "March"
+            - option "April"
+            - option "May"
+            - option "June"
+            - option "July"
+            - option "August"
+            - option "September"
+            - option "October"
+            - option "November"
+            - option "December"
+          - combobox [ref=e159]:
+            - option "Day" [selected]
+            - option "1"
+            - option "2"
+            - option "3"
+            - option "4"
+            - option "5"
+            - option "6"
+            - option "7"
+            - option "8"
+            - option "9"
+            - option "10"
+            - option "11"
+            - option "12"
+            - option "13"
+            - option "14"
+            - option "15"
+            - option "16"
+            - option "17"
+            - option "18"
+            - option "19"
+            - option "20"
+            - option "21"
+            - option "22"
+            - option "23"
+            - option "24"
+            - option "25"
+            - option "26"
+            - option "27"
+            - option "28"
+            - option "29"
+            - option "30"
+            - option "31"
+        - generic [ref=e160]:
+          - generic [ref=e161]: Password
+          - textbox [ref=e163]
+        - generic [ref=e164]:
+          - generic [ref=e165]: Confirm Password
+          - textbox [ref=e167]
+        - generic [ref=e168]:
+          - button "Submit" [ref=e169] [cursor=pointer]
+          - button "Refresh" [ref=e170] [cursor=pointer]
+      - generic [ref=e171]:
+        - generic [ref=e172]: Photo
+        - img [ref=e174]
+        - button "Choose File" [ref=e176]
+  - contentinfo [ref=e177]:
+    - generic [ref=e179]:
+      - generic [ref=e180]:
+        - text: "\"@ 2016\""
+        - link "Automation Testing" [ref=e181]:
+          - /url: "#"
+        - text: "\"All Rights Reserved.\""
+      - generic [ref=e182]:
+        - link "" [ref=e183]:
+          - /url: https://www.facebook.com/automationtesting2016/
+          - generic [ref=e184]: 
+        - link "" [ref=e185]:
+          - /url: https://twitter.com/krishnasakinala
+          - generic [ref=e186]: 
+        - link "" [ref=e187]:
+          - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+          - generic [ref=e188]: 
+        - link "" [ref=e189]:
+          - /url: https://plus.google.com/105286300926085335367
+          - generic [ref=e190]: 
+        - link "" [ref=e191]:
+          - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+          - generic [ref=e192]: 
+  - insertion [ref=e193]:
+    - iframe [ref=e196]:
+      - generic [active] [ref=f11e1]:
+        - generic [ref=f11e6]:
+          - generic [ref=f11e8]:
+            - link "Google Chrome" [ref=f11e11] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CyVcEFODEadyhMdPHs8IPivyo8QPJie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSFAk_QFCFRAtL50e6cxVkgsf5lVMwQVgdH6cGu1LmDhAOHPh7wbSFCVzdL6vzFWz9C-cG5zvheSj88H5pcLk91bG-T65S5LPOWbLBWOLNbkTidNakw-3xugFLykABUoKKaAK7bOX6vODXvs5dG9JldppvWqU2TniUG7wYDDybUcmPaaeDonju0rjNFlKF26FeqG_MizsdXQJh2PGPkCgL3n1YwLmW32tT2I5ek6Aa3mJ-3hBnmP7p1VwIvL1nq9LXUK6-oKEF5a14ZbMS-fNjeR3JU6yz3k0O-CsA8L1mw7r-qjvI6zEoMjBdMfwEneYkl0rEIjDTaXqwgy9zOtafcje22iV9EzsAE7JbXhMsFiAWzwPejV4AH44nNIqgHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgHwsixAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WMar1KGFvZMDmgkqaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jaHJvbWUvZHIvZG93bmxvYWQvsQlLLi0EslYIgoAKAcgLAeALAaIMA5ABAaoNAklOyA0B6g0TCPWD1qGFvZMDFdPjTAIdCj4qPogOCdgTDIgUAtAVAZgWAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMI3PvVoYW9kwMV0-NMAh0KPio-EAEYASAAEgKZp_D_BwE&num=1&cid=CAQS_QEABaugfU9Qh7VMb7xkmv8OdqEqdDfehZbULKFXCzP6NStpo5ijtD9V-C_5W-chzxMHOR0HPU31BanRBPVjNP_Ok41orpQwHcedAiK1vXEVmPu4FKottE92349bs0QVCJSGE0hmj4HDm6QYJFj9ImH9gQK-oTrYd0HecLabGsHlAZGneJxUXOXZYbUeJhd2ivY5EnHXzKK8TFzJAiTXVuEanikuRjANmg62lg1f_AdTW5njR2j1G4juwTLdUM9-0NIzVfqafVwfSLbpzbAK54gh8RPNG-YsvqTjB6alMnyA_rwiaxHiY8TAUXZgIgNycG8Dts2utYIgy5D8vtJzGAE&sig=AOD64_3h6r8b-LEzGE12eGmaY_7nm9ebsA&client=ca-pub-9173866185064071&rf=1&nb=19&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+              - img "Google Chrome" [ref=f11e12]
+            - generic [ref=f11e13]:
+              - generic "Google Chrome" [ref=f11e14]:
+                - link "Download Chrome" [ref=f11e16] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CyVcEFODEadyhMdPHs8IPivyo8QPJie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSFAk_QFCFRAtL50e6cxVkgsf5lVMwQVgdH6cGu1LmDhAOHPh7wbSFCVzdL6vzFWz9C-cG5zvheSj88H5pcLk91bG-T65S5LPOWbLBWOLNbkTidNakw-3xugFLykABUoKKaAK7bOX6vODXvs5dG9JldppvWqU2TniUG7wYDDybUcmPaaeDonju0rjNFlKF26FeqG_MizsdXQJh2PGPkCgL3n1YwLmW32tT2I5ek6Aa3mJ-3hBnmP7p1VwIvL1nq9LXUK6-oKEF5a14ZbMS-fNjeR3JU6yz3k0O-CsA8L1mw7r-qjvI6zEoMjBdMfwEneYkl0rEIjDTaXqwgy9zOtafcje22iV9EzsAE7JbXhMsFiAWzwPejV4AH44nNIqgHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgHwsixAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WMar1KGFvZMDmgkqaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jaHJvbWUvZHIvZG93bmxvYWQvsQlLLi0EslYIgoAKAcgLAeALAaIMA5ABAaoNAklOyA0B6g0TCPWD1qGFvZMDFdPjTAIdCj4qPogOCdgTDIgUAtAVAZgWAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMI3PvVoYW9kwMV0-NMAh0KPio-EAEYASAAEgKZp_D_BwE&num=1&cid=CAQS_QEABaugfU9Qh7VMb7xkmv8OdqEqdDfehZbULKFXCzP6NStpo5ijtD9V-C_5W-chzxMHOR0HPU31BanRBPVjNP_Ok41orpQwHcedAiK1vXEVmPu4FKottE92349bs0QVCJSGE0hmj4HDm6QYJFj9ImH9gQK-oTrYd0HecLabGsHlAZGneJxUXOXZYbUeJhd2ivY5EnHXzKK8TFzJAiTXVuEanikuRjANmg62lg1f_AdTW5njR2j1G4juwTLdUM9-0NIzVfqafVwfSLbpzbAK54gh8RPNG-YsvqTjB6alMnyA_rwiaxHiY8TAUXZgIgNycG8Dts2utYIgy5D8vtJzGAE&sig=AOD64_3h6r8b-LEzGE12eGmaY_7nm9ebsA&client=ca-pub-9173866185064071&rf=1&nb=0&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+              - link "Browse securely with Chrome's built-in protection from malware, phishing, and other scams. Google Chrome" [ref=f11e18] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CyVcEFODEadyhMdPHs8IPivyo8QPJie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSFAk_QFCFRAtL50e6cxVkgsf5lVMwQVgdH6cGu1LmDhAOHPh7wbSFCVzdL6vzFWz9C-cG5zvheSj88H5pcLk91bG-T65S5LPOWbLBWOLNbkTidNakw-3xugFLykABUoKKaAK7bOX6vODXvs5dG9JldppvWqU2TniUG7wYDDybUcmPaaeDonju0rjNFlKF26FeqG_MizsdXQJh2PGPkCgL3n1YwLmW32tT2I5ek6Aa3mJ-3hBnmP7p1VwIvL1nq9LXUK6-oKEF5a14ZbMS-fNjeR3JU6yz3k0O-CsA8L1mw7r-qjvI6zEoMjBdMfwEneYkl0rEIjDTaXqwgy9zOtafcje22iV9EzsAE7JbXhMsFiAWzwPejV4AH44nNIqgHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgHwsixAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WMar1KGFvZMDmgkqaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jaHJvbWUvZHIvZG93bmxvYWQvsQlLLi0EslYIgoAKAcgLAeALAaIMA5ABAaoNAklOyA0B6g0TCPWD1qGFvZMDFdPjTAIdCj4qPogOCdgTDIgUAtAVAZgWAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMI3PvVoYW9kwMV0-NMAh0KPio-EAEYASAAEgKZp_D_BwE&num=1&cid=CAQS_QEABaugfU9Qh7VMb7xkmv8OdqEqdDfehZbULKFXCzP6NStpo5ijtD9V-C_5W-chzxMHOR0HPU31BanRBPVjNP_Ok41orpQwHcedAiK1vXEVmPu4FKottE92349bs0QVCJSGE0hmj4HDm6QYJFj9ImH9gQK-oTrYd0HecLabGsHlAZGneJxUXOXZYbUeJhd2ivY5EnHXzKK8TFzJAiTXVuEanikuRjANmg62lg1f_AdTW5njR2j1G4juwTLdUM9-0NIzVfqafVwfSLbpzbAK54gh8RPNG-YsvqTjB6alMnyA_rwiaxHiY8TAUXZgIgNycG8Dts2utYIgy5D8vtJzGAE&sig=AOD64_3h6r8b-LEzGE12eGmaY_7nm9ebsA&client=ca-pub-9173866185064071&rf=1&nb=7&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+                - text: Browse securely with Chrome's built-in protection from malware, phishing, and
+                - text: other scams. Google Chrome
+          - link "Download" [ref=f11e21] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CyVcEFODEadyhMdPHs8IPivyo8QPJie6MhgGyhomvwxW1kB8QASCPvrcvYOWS6IPYDqABjpDcsSjIAQGoAwHIA8sEqgSFAk_QFCFRAtL50e6cxVkgsf5lVMwQVgdH6cGu1LmDhAOHPh7wbSFCVzdL6vzFWz9C-cG5zvheSj88H5pcLk91bG-T65S5LPOWbLBWOLNbkTidNakw-3xugFLykABUoKKaAK7bOX6vODXvs5dG9JldppvWqU2TniUG7wYDDybUcmPaaeDonju0rjNFlKF26FeqG_MizsdXQJh2PGPkCgL3n1YwLmW32tT2I5ek6Aa3mJ-3hBnmP7p1VwIvL1nq9LXUK6-oKEF5a14ZbMS-fNjeR3JU6yz3k0O-CsA8L1mw7r-qjvI6zEoMjBdMfwEneYkl0rEIjDTaXqwgy9zOtafcje22iV9EzsAE7JbXhMsFiAWzwPejV4AH44nNIqgHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAqgHwsixAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WMar1KGFvZMDmgkqaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9jaHJvbWUvZHIvZG93bmxvYWQvsQlLLi0EslYIgoAKAcgLAeALAaIMA5ABAaoNAklOyA0B6g0TCPWD1qGFvZMDFdPjTAIdCj4qPogOCdgTDIgUAtAVAZgWAcoWAgoA-BYBgBcBshcEGAFQBroXAjgBshgJEgLeaBgBIgEA0BgB6BgBshkBL8IZAggB&gclid=EAIaIQobChMI3PvVoYW9kwMV0-NMAh0KPio-EAEYASAAEgKZp_D_BwE&num=1&cid=CAQS_QEABaugfU9Qh7VMb7xkmv8OdqEqdDfehZbULKFXCzP6NStpo5ijtD9V-C_5W-chzxMHOR0HPU31BanRBPVjNP_Ok41orpQwHcedAiK1vXEVmPu4FKottE92349bs0QVCJSGE0hmj4HDm6QYJFj9ImH9gQK-oTrYd0HecLabGsHlAZGneJxUXOXZYbUeJhd2ivY5EnHXzKK8TFzJAiTXVuEanikuRjANmg62lg1f_AdTW5njR2j1G4juwTLdUM9-0NIzVfqafVwfSLbpzbAK54gh8RPNG-YsvqTjB6alMnyA_rwiaxHiY8TAUXZgIgNycG8Dts2utYIgy5D8vtJzGAE&sig=AOD64_3h6r8b-LEzGE12eGmaY_7nm9ebsA&client=ca-pub-9173866185064071&rf=1&nb=8&adurl=https://ad.doubleclick.net/ddm/trackclk/N5295.5087813DEMANDGEN/B34618049.436605945%3Bdc_trk_aid%3D629327307%3Bdc_trk_cid%3D246757563%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bgdpr%3D%24%7BGDPR%7D%3Bgdpr_consent%3D%24%7BGDPR_CONSENT_755%7D%3Bltd%3D%3Bdc_tdv%3D1%3Bdc_pubid%3D8%3Fgad_source%3D5%26gad_campaignid%3D23429242931
+            - generic [ref=f11e24]:
+              - generic [ref=f11e25]: Download
+              - img [ref=f11e26]
+        - img [ref=f11e31] [cursor=pointer]
+        - button [ref=f11e33] [cursor=pointer]:
+          - img [ref=f11e34]
+        - iframe
+  - generic [ref=e197]:
+    - generic [ref=e198] [cursor=pointer]:
+      - img [ref=e200]
+      - link "Go to shopping options for Networking equipment" [ref=e202]: Networking equipment
+    - button "Close shopping anchor" [ref=e203]
+```

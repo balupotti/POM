@@ -1,0 +1,371 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation "Shortcuts menu" [ref=e3]:
+    - heading "Skip to" [level=2] [ref=e4]
+    - list "Skip to" [ref=e5]:
+      - listitem [ref=e6]:
+        - link "main content" [ref=e7] [cursor=pointer]:
+          - /url: "#skippedLink"
+          - text: Main content
+    - separator [ref=e8]
+  - banner [ref=e9]:
+    - navigation "Primary" [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "Amazon.in" [ref=e14] [cursor=pointer]:
+            - /url: /ref=nav_logo
+            - generic: .in
+          - button "Delivering to Chennai 600009 Update location" [ref=e17] [cursor=pointer]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Delivering to Chennai 600009
+              - generic [ref=e21]: Update location
+        - search [ref=e24]:
+          - generic [ref=e27]:
+            - generic [ref=e29]: All
+            - combobox "Select the department you want to search in" [ref=e31] [cursor=pointer]:
+              - option "All Categories" [selected]
+              - option "Alexa Skills"
+              - option "Amazon Devices"
+              - option "Amazon Fashion"
+              - option "Amazon Fresh"
+              - option "Amazon Fresh Meat"
+              - option "Amazon Pharmacy"
+              - option "Appliances"
+              - option "Apps & Games"
+              - option "Audible Audiobooks"
+              - option "Baby"
+              - option "Beauty"
+              - option "Books"
+              - option "Car & Motorbike"
+              - option "Clothing & Accessories"
+              - option "Collectibles"
+              - option "Computers & Accessories"
+              - option "Deals"
+              - option "Electronics"
+              - option "Furniture"
+              - option "Garden & Outdoors"
+              - option "Gift Cards"
+              - option "Grocery & Gourmet Foods"
+              - option "Health & Personal Care"
+              - option "Home & Kitchen"
+              - option "Industrial & Scientific"
+              - option "Jewellery"
+              - option "Kindle Store"
+              - option "Luggage & Bags"
+              - option "Luxury Beauty"
+              - option "Movies & TV Shows"
+              - option "MP3 Music"
+              - option "Music"
+              - option "Musical Instruments"
+              - option "Office Products"
+              - option "Pet Supplies"
+              - option "Prime Video"
+              - option "Shoes & Handbags"
+              - option "Software"
+              - option "Sports, Fitness & Outdoors"
+              - option "Subscribe & Save"
+              - option "Tools & Home Improvement"
+              - option "Toys & Games"
+              - option "Under ₹500"
+              - option "Video Games"
+              - option "Watches"
+          - searchbox "Search Amazon.in" [active] [ref=e34]: Mobile
+          - generic "Go" [ref=e37] [cursor=pointer]:
+            - button "Go" [ref=e38]
+        - generic [ref=e40]:
+          - link "Choose a language for shopping in Amazon India. The current selection is English (EN)." [ref=e42] [cursor=pointer]:
+            - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+            - generic [ref=e45]:
+              - img "India" [ref=e46]
+              - generic [ref=e47]: EN
+          - link "Hello, sign in Account & Lists" [ref=e49] [cursor=pointer]:
+            - /url: https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+            - generic [ref=e51]: Hello, sign in
+            - generic [ref=e52]: Account & Lists
+          - link "Returns & Orders" [ref=e53] [cursor=pointer]:
+            - /url: /gp/css/order-history?ref_=nav_orders_first
+            - generic [ref=e54]: Returns
+            - generic [ref=e55]: "& Orders"
+          - link "0 items in cart" [ref=e56] [cursor=pointer]:
+            - /url: /gp/cart/view.html?ref_=nav_cart
+            - generic [ref=e58]: "0"
+            - generic [ref=e61]: Cart
+      - generic [ref=e62]:
+        - button "Open All Categories Menu" [ref=e64] [cursor=pointer]:
+          - generic [ref=e66]: All
+        - list [ref=e70]:
+          - listitem [ref=e71]:
+            - link "Fresh" [ref=e73] [cursor=pointer]:
+              - /url: /fresh?ref_=nav_cs_grocery
+          - listitem [ref=e74]:
+            - link "MX Player" [ref=e76] [cursor=pointer]:
+              - /url: /minitv?ref_=nav_avod_desktop_topnav
+          - listitem [ref=e77]:
+            - link "Sell" [ref=e79] [cursor=pointer]:
+              - /url: /b/32702023031?node=32702023031&ld=AZINSOANavDesktop_T3&ref_=nav_cs_sell_T3
+          - listitem [ref=e80]:
+            - link "Bestsellers" [ref=e82] [cursor=pointer]:
+              - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+          - listitem [ref=e83]:
+            - link "Mobiles" [ref=e85] [cursor=pointer]:
+              - /url: /mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles
+          - listitem [ref=e86]:
+            - link "Today's Deals" [ref=e88] [cursor=pointer]:
+              - /url: /deals?ref_=nav_cs_gb
+          - listitem [ref=e89]:
+            - link "Customer Service" [ref=e91] [cursor=pointer]:
+              - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help
+          - listitem [ref=e92]:
+            - link "Prime" [ref=e94] [cursor=pointer]:
+              - /url: /prime?ref_=nav_cs_primelink_nonmember
+          - listitem [ref=e95]:
+            - link "New Releases" [ref=e97] [cursor=pointer]:
+              - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+          - listitem [ref=e98]:
+            - link "Fashion" [ref=e100] [cursor=pointer]:
+              - /url: /gp/browse.html?node=6648217031&ref_=nav_cs_fashion
+          - listitem [ref=e101]:
+            - link "Electronics" [ref=e103] [cursor=pointer]:
+              - /url: /electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics
+          - listitem [ref=e104]:
+            - link "Amazon Pay" [ref=e106] [cursor=pointer]:
+              - /url: /gp/sva/dashboard?ref_=nav_cs_apay
+          - listitem [ref=e107]:
+            - link "Home & Kitchen" [ref=e109] [cursor=pointer]:
+              - /url: /Home-Kitchen/b/?ie=UTF8&node=976442031&ref_=nav_cs_home
+          - listitem [ref=e110]:
+            - link "Toys & Games" [ref=e112] [cursor=pointer]:
+              - /url: /Toys-Games/b/?ie=UTF8&node=1350380031&ref_=nav_cs_toys
+          - listitem [ref=e113]:
+            - link "Computers" [ref=e115] [cursor=pointer]:
+              - /url: /computers-and-accessories/b/?ie=UTF8&node=976392031&ref_=nav_cs_pc
+          - listitem [ref=e116]:
+            - link "Books" [ref=e118] [cursor=pointer]:
+              - /url: /Books/b/?ie=UTF8&node=976389031&ref_=nav_cs_books
+          - listitem [ref=e119]:
+            - link "Gift Cards" [ref=e121] [cursor=pointer]:
+              - /url: /gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc
+          - listitem [ref=e122]:
+            - link "Beauty & Personal Care" [ref=e124] [cursor=pointer]:
+              - /url: /beauty/b/?ie=UTF8&node=1355016031&ref_=nav_cs_beauty
+          - listitem [ref=e125]:
+            - link "Car & Motorbike" [ref=e127] [cursor=pointer]:
+              - /url: /Car-Motorbike-Store/b/?ie=UTF8&node=4772060031&ref_=nav_cs_automotive
+          - listitem [ref=e128]:
+            - link "Home Improvement" [ref=e130] [cursor=pointer]:
+              - /url: /Home-Improvement/b/?ie=UTF8&node=4286640031&ref_=nav_cs_hi
+          - listitem [ref=e131]:
+            - link "Custom Products" [ref=e133] [cursor=pointer]:
+              - /url: /Amazon-Custom/b/?ie=UTF8&node=32615889031&ref_=nav_cs_custom
+          - listitem [ref=e134]:
+            - link "Sports, Fitness & Outdoors" [ref=e136] [cursor=pointer]:
+              - /url: /Sports/b/?ie=UTF8&node=1984443031&ref_=nav_cs_sports
+          - listitem [ref=e137]:
+            - link "Grocery & Gourmet Foods" [ref=e139] [cursor=pointer]:
+              - /url: /Gourmet-Specialty-Foods/b/?ie=UTF8&node=2454178031&ref_=nav_cs_grocery
+          - listitem [ref=e140]:
+            - link "Health, Household & Personal Care" [ref=e142] [cursor=pointer]:
+              - /url: /health-and-personal-care/b/?ie=UTF8&node=1350384031&ref_=nav_cs_hpc
+          - listitem [ref=e143]:
+            - link "Video Games" [ref=e145] [cursor=pointer]:
+              - /url: /video-games/b/?ie=UTF8&node=976460031&ref_=nav_cs_video_games
+          - listitem [ref=e146]:
+            - link "Baby" [ref=e148] [cursor=pointer]:
+              - /url: /Baby/b/?ie=UTF8&node=1571274031&ref_=nav_cs_baby
+          - listitem [ref=e149]:
+            - link "Pet Supplies" [ref=e151] [cursor=pointer]:
+              - /url: /Pet-Supplies/b/?ie=UTF8&node=2454181031&ref_=nav_cs_pets
+          - listitem [ref=e152]:
+            - link "Subscribe & Save" [ref=e154] [cursor=pointer]:
+              - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+          - listitem [ref=e155]:
+            - link "AmazonBasics" [ref=e157] [cursor=pointer]:
+              - /url: /b/?node=6637738031&ref_=nav_cs_amazonbasics
+          - listitem [ref=e158]:
+            - link "Audible" [ref=e160] [cursor=pointer]:
+              - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=17941593031&ref_=nav_cs_audible
+          - listitem [ref=e161]:
+            - link "Kindle eBooks" [ref=e163] [cursor=pointer]:
+              - /url: /Kindle-eBooks/b/?ie=UTF8&node=1634753031&ref_=nav_cs_kindle_books
+          - listitem [ref=e164]:
+            - link "Flights" [ref=e166] [cursor=pointer]:
+              - /url: /flights?ref_=nav_cs_apay_desktop_topnav_flights
+        - link "Apay_Travel" [ref=e170] [cursor=pointer]:
+          - /url: /flights/?_encoding=UTF8&ref_=nav_swm_event&pf_rd_p=0dde8efb-b6e4-4583-8a00-97fa0f95c3b0&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A21TJRUUN4KGV&pf_rd_r=V1AR879FW9ES67APWEDQ
+          - img "Apay_Travel" [ref=e171]
+  - main [ref=e173]:
+    - banner [ref=e175]:
+      - region "Featured content" [ref=e176]:
+        - list [ref=e181]:
+          - listitem [ref=e182]:
+            - link "Uber" [ref=e185] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=1389402031&pd_rd_w=IOnr0&content-id=amzn1.sym.15e75401-dbe3-498f-a7ee-ab2094c124a7&pf_rd_p=15e75401-dbe3-498f-a7ee-ab2094c124a7&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=zye5u&pd_rd_r=6d4af580-a263-4ad0-8c55-1829b1561055&ref_=pd_hp_d_hero_unk
+              - img "Uber" [ref=e186]
+          - listitem [ref=e187]
+          - listitem [ref=e189]
+          - listitem [ref=e191]
+          - listitem [ref=e193]
+    - generic [ref=e195]:
+      - generic [ref=e196]:
+        - generic [ref=e198]:
+          - heading "Appliances for your home | Up to 55% off" [level=2] [ref=e200]
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - link "ACs" [ref=e204] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&bbn=81107432031&rh=n%3A81107432031%2Cp_85%3A10440599031&pd_rd_w=y8sYC&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "ACs" [ref=e206]
+                - generic [ref=e208]: Air conditioners
+              - link "Refrigerators" [ref=e210] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&bbn=81107433031&rh=n%3A81107433031%2Cp_85%3A10440599031&pd_rd_w=y8sYC&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Refrigerators" [ref=e212]
+                - generic [ref=e214]: Refrigerators
+            - generic [ref=e215]:
+              - link "Microwaves" [ref=e217] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&bbn=84514739031&rh=n%3A84514739031%2Cp_85%3A10440599031&pd_rd_w=y8sYC&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Microwaves" [ref=e219]
+                - generic [ref=e221]: Microwaves
+              - link "Washing machines" [ref=e223] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&bbn=84514752031&rh=n%3A84514752031%2Cp_85%3A10440599031&pd_rd_w=y8sYC&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Washing machines" [ref=e225]
+                - generic [ref=e227]: Washing machines
+          - link "Appliances for your home | Up to 55% off - See more" [ref=e229] [cursor=pointer]:
+            - /url: /s/?_encoding=UTF8&bbn=84514735031&rh=n%3A84514735031%2Cp_85%3A10440599031&pd_rd_w=y8sYC&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_p=58c90a12-100b-4a2f-8e15-7c06f1abe2be&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+            - generic [ref=e231]: See more
+        - generic [ref=e233]:
+          - heading "Starting ₹49 | Deals on home essentials" [level=2] [ref=e235]
+          - generic [ref=e236]:
+            - generic [ref=e237]:
+              - link "Cleaning" [ref=e239] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&i=home-improvement&bbn=61028133031&rh=n%3A61028133031%2Cp_72%3A1318476031%2Cp_36%3A-19900&_encoding=UTF8&qid=1714749719&rnid=3444809031&ref=sr_nr_p_36_3&pd_rd_w=QbVnM&content-id=amzn1.sym.2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_p=2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Cleaning" [ref=e241]
+                - generic [ref=e243]: Cleaning supplies
+              - link "Bath accessories" [ref=e245] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&i=home-improvement&rh=n%3A60834830031%2Cp_36%3A-39900%2Cp_72%3A1318476031&dc=&fs=true&qid=1714744556&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3AObcyf9vB3S72PU7NAfGZ%2FbllKjFxF%2BIh8NlJQg5c1A8%22&pd_rd_w=QbVnM&content-id=amzn1.sym.2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_p=2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Bath accessories" [ref=e247]
+                - generic [ref=e249]: Bathroom accessories
+            - generic [ref=e250]:
+              - link "Home tools" [ref=e252] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&i=home-improvement&rh=n%3A95174669031%2Cp_36%3A3444810031%2Cp_72%3A1318476031&pd_rd_w=QbVnM&content-id=amzn1.sym.2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_p=2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Home tools" [ref=e254]
+                - generic [ref=e256]: Home tools
+              - link "Wallpapers" [ref=e258] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&i=home-improvement&rh=n%3A87322479031%2Cp_36%3A-29900%2Cp_72%3A1318476031&dc=&fs=true&qid=1714750891&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3AKT2aFWvve4xsaDjrU17ctKHJFfdbS%2FW1Ex2L5A6belw&pd_rd_w=QbVnM&content-id=amzn1.sym.2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_p=2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Wallpapers" [ref=e260]
+                - generic [ref=e262]: Wallpapers
+          - link "Starting ₹49 | Deals on home essentials - Explore all" [ref=e264] [cursor=pointer]:
+            - /url: /b/?_encoding=UTF8&node=4286640031&pd_rd_w=QbVnM&content-id=amzn1.sym.2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_p=2eab8373-f2e6-4b01-97aa-c5592db6ec60&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+            - generic [ref=e266]: Explore all
+        - generic [ref=e268]:
+          - heading "Revamp your home in style" [level=2] [ref=e270]
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - link "Cushion covers, bedsheets & more" [ref=e274] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&node=1380442031&pd_rd_w=5Ytmu&content-id=amzn1.sym.f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_p=f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Cushion covers, bedsheets & more" [ref=e276]
+                - generic [ref=e278]: Cushion covers, bedsheets & more
+              - link "Figurines, vases & more" [ref=e280] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&node=1380374031&pd_rd_w=5Ytmu&content-id=amzn1.sym.f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_p=f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Figurines, vases & more" [ref=e282]
+                - generic [ref=e284]: Figurines, vases & more
+            - generic [ref=e285]:
+              - link "Home storage" [ref=e287] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&node=1380510031&pd_rd_w=5Ytmu&content-id=amzn1.sym.f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_p=f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Home storage" [ref=e289]
+                - generic [ref=e291]: Home storage
+              - link "Lighting solutions" [ref=e293] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&node=1380485031&pd_rd_w=5Ytmu&content-id=amzn1.sym.f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_p=f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Lighting solutions" [ref=e295]
+                - generic [ref=e297]: Lighting solutions
+          - link "Revamp your home in style - Explore all" [ref=e299] [cursor=pointer]:
+            - /url: /b/?_encoding=UTF8&node=12414705031&pd_rd_w=5Ytmu&content-id=amzn1.sym.f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_p=f8e82c51-0408-4554-a158-9be4d776850d&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+            - generic [ref=e301]: Explore all
+        - generic [ref=e303]:
+          - heading "Automotive essentials | Up to 60% off" [level=2] [ref=e305]
+          - generic [ref=e306]:
+            - generic [ref=e307]:
+              - link "Cleaning accessories" [ref=e309] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&ie=UTF8&node=5257472031&pd_rd_w=eDy9s&content-id=amzn1.sym.9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Cleaning accessories" [ref=e311]
+                - generic [ref=e313]: Cleaning accessories
+              - link "Tyre & rim care" [ref=e315] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&ie=UTF8&node=5257496031&pd_rd_w=eDy9s&content-id=amzn1.sym.9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Tyre & rim care" [ref=e317]
+                - generic [ref=e319]: Tyre & rim care
+            - generic [ref=e320]:
+              - link "Helmets" [ref=e322] [cursor=pointer]:
+                - /url: /b/?_encoding=UTF8&ie=UTF8&node=5258045031&pd_rd_w=eDy9s&content-id=amzn1.sym.9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Helmets" [ref=e324]
+                - generic [ref=e326]: Helmets
+              - link "Vacuum cleaner" [ref=e328] [cursor=pointer]:
+                - /url: /s/?_encoding=UTF8&bbn=21541481031&rh=n%3A21541481031%2Cp_72%3A1318477031&pd_rd_w=eDy9s&content-id=amzn1.sym.9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+                - img "Vacuum cleaner" [ref=e330]
+                - generic [ref=e332]: Vacuum cleaner
+          - link "Automotive essentials | Up to 60% off - See more" [ref=e334] [cursor=pointer]:
+            - /url: /b/?_encoding=UTF8&ie=UTF8&node=4772060031&pd_rd_w=eDy9s&content-id=amzn1.sym.9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_p=9ff36f11-82d6-4600-a8fb-e52bb32e171c&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=dMkN2&pd_rd_r=76dcd3b5-47ca-435a-b516-631f51927b75&ref_=pd_hp_d_atf_unk
+            - generic [ref=e336]: See more
+      - generic [ref=e338]:
+        - generic [ref=e341]:
+          - generic [ref=e342]:
+            - heading "Starting ₹70,348 | Engineered for the road" [level=2] [ref=e343]
+            - link "See all offers" [ref=e345] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=28253258031&ref=ls_gwc_mb_en8_&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+          - list [ref=e348]:
+            - listitem [ref=e349]:
+              - link "HARLEY-DAVIDSON X440 S Motorcycle 440cc Matte Black booking for Ex-Showroom| 5 Years Warranty" [ref=e351] [cursor=pointer]:
+                - /url: /HARLEY-DAVIDSON-Motorcycle-booking-Ex-Showroom-Warranty/dp/B0FDGY2KM1/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "HARLEY-DAVIDSON X440 S Motorcycle 440cc Matte Black booking for Ex-Showroom| 5 Years Warranty" [ref=e352]
+            - listitem [ref=e353]:
+              - link "KTM Adventure 390 Bike White Booking For Ex-Showroom Price" [ref=e355] [cursor=pointer]:
+                - /url: /KTM-Adventure-White-Booking-Ex-Showroom/dp/B0F83CRW2W/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Adventure 390 Bike White Booking For Ex-Showroom Price" [ref=e356]
+            - listitem [ref=e357]:
+              - link "KTM Enduro 390 Motercycle/Bike Orange Booking For Ex-Showroom Price" [ref=e359] [cursor=pointer]:
+                - /url: /KTM-Enduro-Motercycle-Booking-Ex-Showroom/dp/B0F8382VTT/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Enduro 390 Motercycle/Bike Orange Booking For Ex-Showroom Price" [ref=e360]
+            - listitem [ref=e361]:
+              - link "KTM Adventure X 390 Bike White Booking For Ex-Showroom Price" [ref=e363] [cursor=pointer]:
+                - /url: /KTM-Adventure-White-Booking-Ex-Showroom/dp/B0F83F5D6K/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Adventure X 390 Bike White Booking For Ex-Showroom Price" [ref=e364]
+            - listitem [ref=e365]:
+              - link "KTM Duke 390 Bike Gunmetal Metallic Booking For Ex-Showroom Price" [ref=e367] [cursor=pointer]:
+                - /url: /KTM-Gunmetal-Metallic-Booking-Ex-Showroom/dp/B0F83362LK/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Duke 390 Bike Gunmetal Metallic Booking For Ex-Showroom Price" [ref=e368]
+            - listitem [ref=e369]:
+              - link "KTM Adventure 250 Bike White Booking For Ex-Showroom Price" [ref=e371] [cursor=pointer]:
+                - /url: /KTM-Adventure-White-Booking-Ex-Showroom/dp/B0F83F5NX7/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Adventure 250 Bike White Booking For Ex-Showroom Price" [ref=e372]
+            - listitem [ref=e373]:
+              - link "KTM Duke 250 Bike Ebony Black(Matt) Booking for Ex-Showroom Price" [ref=e375] [cursor=pointer]:
+                - /url: /KTM-Ebony-Black-Booking-Ex-Showroom/dp/B0F5399MQN/?_encoding=UTF8&pd_rd_w=tmmjs&content-id=amzn1.sym.19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_p=19c1fe77-024a-484e-85dd-b22ab1977129&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_ls_gwc_pc_en4_
+                - img "KTM Duke 250 Bike Ebony Black(Matt) Booking for Ex-Showroom Price" [ref=e376]
+        - separator [ref=e378]
+        - generic [ref=e381]:
+          - generic [ref=e382]:
+            - heading "Up to 60% off | Bestsellers from women-led brands" [level=2] [ref=e383]
+            - link "See all offers" [ref=e385] [cursor=pointer]:
+              - /url: /b/?_encoding=UTF8&node=14311774031&pd_rd_w=0OnAx&content-id=amzn1.sym.ea190cd0-1ee7-412b-b9ea-b20656b172c3&pf_rd_p=ea190cd0-1ee7-412b-b9ea-b20656b172c3&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_sah_gw_pc_en_
+          - generic [ref=e387]:
+            - list
+        - separator [ref=e389]
+        - generic [ref=e391]:
+          - heading "Customers’ Most-Loved Fashion for you" [level=2] [ref=e393]:
+            - generic [ref=e395]: Customers’ Most-Loved Fashion for you
+          - generic [ref=e397]:
+            - link "XYXX Men 100% Cotton Polo Tshirt, Regular Fit, Solid, Pack of 1, XYPTSRT12XL, Indian Blue, XL" [ref=e399] [cursor=pointer]:
+              - /url: /XYXX-Solid-Regular-XY_CR14_Polo-Tshirt_1_Blue/dp/B0CBBB5843/?_encoding=UTF8&pd_rd_w=5tZHY&content-id=amzn1.sym.de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_p=de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_a2i_gw_cml
+              - img "XYXX Men 100% Cotton Polo Tshirt, Regular Fit, Solid, Pack of 1, XYPTSRT12XL, Indian Blue, XL" [ref=e401]
+            - link "Skechers Womens Summits - 896220id Gray/Light Blue Casual Shoe - 6 UK (9 US) (896220ID-GYLB)" [ref=e403] [cursor=pointer]:
+              - /url: /Skechers-Summits-Womens-Casual-Shoes-896220ID-GYLB-9-Grey-Light/dp/B0CBVN7C52/?_encoding=UTF8&pd_rd_w=5tZHY&content-id=amzn1.sym.de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_p=de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_a2i_gw_cml
+              - img "Skechers Womens Summits - 896220id Gray/Light Blue Casual Shoe - 6 UK (9 US) (896220ID-GYLB)" [ref=e405]
+            - link "Jockey Cotton Blend Crew Neck T-Shirt For Women AW88_White_XL, Relaxed Fit" [ref=e407] [cursor=pointer]:
+              - /url: /Jockey-Crew-T-Shirt-Women-AW88_White_XL/dp/B09MFMVVK5/?_encoding=UTF8&pd_rd_w=5tZHY&content-id=amzn1.sym.de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_p=de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_a2i_gw_cml
+              - img "Jockey Cotton Blend Crew Neck T-Shirt For Women AW88_White_XL, Relaxed Fit" [ref=e409]
+            - link "Skechers Mens Summits - Brisbane Light Gray Sneaker - 9 UK (10 US) (232057ID-LTGY)" [ref=e411] [cursor=pointer]:
+              - /url: /Skechers-232057ID-LTGY-Skechers-232057ID-LTGY-SHOES-Mens-Casual-Shoes-UK9/dp/B0BQHQ2QGZ/?_encoding=UTF8&pd_rd_w=5tZHY&content-id=amzn1.sym.de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_p=de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_a2i_gw_cml
+              - img "Skechers Mens Summits - Brisbane Light Gray Sneaker - 9 UK (10 US) (232057ID-LTGY)" [ref=e413]
+          - link "Customers’ Most-Loved Fashion for you - Explore more" [ref=e415] [cursor=pointer]:
+            - /url: /s/?_encoding=UTF8&node=50916365031&pd_rd_w=5tZHY&content-id=amzn1.sym.de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_p=de84ee3f-a07f-47cd-ac44-50f5d6cbb587&pf_rd_r=V1AR879FW9ES67APWEDQ&pd_rd_wg=4Oz1A&pd_rd_r=926f0b14-a535-4d18-8c46-6bbbc3a3782c&ref_=pd_hp_d_btf_a2i_gw_cml
+            - generic [ref=e417]: Explore more
+```

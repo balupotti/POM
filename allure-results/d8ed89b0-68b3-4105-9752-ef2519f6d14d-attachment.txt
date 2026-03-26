@@ -1,0 +1,2 @@
+Simple Alert :-  I am an alert box!
+Conform Alert :-  Press a Button !

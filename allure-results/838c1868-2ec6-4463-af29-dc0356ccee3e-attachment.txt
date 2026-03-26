@@ -1,0 +1,4 @@
+Apple
+[ 'Aquaman', 'The Avengers', 'Captain America' ]
+JavaScript
+India

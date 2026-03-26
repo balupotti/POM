@@ -1,0 +1,894 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - generic [ref=e7]:
+          - link "Zepto Home" [ref=e8] [cursor=pointer]:
+            - /url: /
+          - button "Select Location" [ref=e10] [cursor=pointer]:
+            - heading "Select Location" [level=3] [ref=e11]
+            - img [ref=e12]
+          - link "Search for products" [ref=e15] [cursor=pointer]:
+            - /url: /search
+            - img [ref=e16]
+            - generic [ref=e19]:
+              - generic [ref=e20]: Search for
+              - list:
+                - listitem [ref=e21]: "\"kurkure\""
+                - listitem [ref=e22]: "\"apple juice\""
+                - listitem [ref=e23]: "\"cheese slices\""
+                - listitem [ref=e24]: "\"chocolate box\""
+                - listitem [ref=e25]: "\"amul butter\""
+                - listitem [ref=e26]: "\"banana\""
+          - button "login" [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]:
+              - img [ref=e30]
+              - generic [ref=e34]: login
+          - generic [ref=e36]:
+            - button "Cart" [ref=e38] [cursor=pointer]:
+              - img [ref=e39]
+              - generic [ref=e43]: Cart
+              - generic [ref=e47]: "1"
+            - tooltip "You have 1 item in your cart." [ref=e48]: You have 1 item in your cart.
+      - main [ref=e50]:
+        - heading "Buy Tablet Online" [level=1] [ref=e51]
+        - generic [ref=e53]:
+          - 'link "Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey Decrease quantity 1 Increase quantity ₹11409 ₹30000 ₹18.6K OFF ₹1093/month EMI Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey 1 pc RAM: 4 GB 4.1 (316) No Cost EMI" [ref=e54] [cursor=pointer]':
+            - /url: /pn/lenovo-tab-m10-101-inch-4gb-ram-64gb-rom-wi-fi4g-lte-storm-grey/pvid/7843c7ea-6445-4912-91f9-f2ecfe8fc9a3
+            - generic [ref=e55]:
+              - generic [ref=e57]:
+                - img "Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey" [ref=e58]
+                - button "Decrease quantity 1 Increase quantity" [active] [ref=e59]:
+                  - generic [ref=e60]:
+                    - button "Decrease quantity" [ref=e61]:
+                      - img [ref=e62]
+                    - generic [ref=e64]: "1"
+                    - button "Increase quantity" [ref=e65]:
+                      - img [ref=e66]
+              - generic [ref=e68]:
+                - generic [ref=e69]: ₹11409
+                - generic [ref=e70]: ₹30000
+              - generic [ref=e72]:
+                - generic [ref=e73]: ₹18.6K
+                - generic [ref=e74]: "OFF"
+              - generic [ref=e77]: ₹1093/month EMI
+              - generic [ref=e78]: Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey
+              - generic [ref=e79]: 1 pc
+              - generic [ref=e81]: "RAM: 4 GB"
+              - generic [ref=e83]:
+                - generic [ref=e84]:
+                  - img [ref=e85]
+                  - text: "4.1"
+                - generic [ref=e87]: (316)
+              - generic [ref=e89]: No Cost EMI
+          - link "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey Notify ₹13209 ₹24999 ₹11.8K OFF ₹1266/month EMI Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey 1 pc 128 GB 4.3 (448) No Cost EMI Sold out" [ref=e90] [cursor=pointer]:
+            - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-wifi-imagination-grey/pvid/dafd9012-0d0b-4cba-bcca-c9ea584dfe8c
+            - generic [ref=e91]:
+              - generic [ref=e93]:
+                - img "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey" [ref=e94]
+                - button "Notify" [ref=e95]:
+                  - img [ref=e96]
+                  - text: Notify
+              - generic [ref=e98]:
+                - generic [ref=e99]: ₹13209
+                - generic [ref=e100]: ₹24999
+              - generic [ref=e102]:
+                - generic [ref=e103]: ₹11.8K
+                - generic [ref=e104]: "OFF"
+              - generic [ref=e107]: ₹1266/month EMI
+              - generic [ref=e108]: Realme Pad 2 | 11.5" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey
+              - generic [ref=e109]: 1 pc
+              - generic [ref=e111]: 128 GB
+              - generic [ref=e113]:
+                - generic [ref=e114]:
+                  - img [ref=e115]
+                  - text: "4.3"
+                - generic [ref=e117]: (448)
+              - generic [ref=e119]: No Cost EMI
+              - generic [ref=e120]: Sold out
+          - link "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey Notify ₹16559 ₹28999 ₹12.4K OFF ₹1587/month EMI Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey 1 pc 128 GB 4.7 (340) No Cost EMI Sold out" [ref=e121] [cursor=pointer]:
+            - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-lte-imagination-grey/pvid/cbeec18d-eef9-47ed-8aaa-5949e8211460
+            - generic [ref=e122]:
+              - generic [ref=e124]:
+                - img "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey" [ref=e125]
+                - button "Notify" [ref=e126]:
+                  - img [ref=e127]
+                  - text: Notify
+              - generic [ref=e129]:
+                - generic [ref=e130]: ₹16559
+                - generic [ref=e131]: ₹28999
+              - generic [ref=e133]:
+                - generic [ref=e134]: ₹12.4K
+                - generic [ref=e135]: "OFF"
+              - generic [ref=e138]: ₹1587/month EMI
+              - generic [ref=e139]: Realme Pad 2 | 11.5" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey
+              - generic [ref=e140]: 1 pc
+              - generic [ref=e142]: 128 GB
+              - generic [ref=e144]:
+                - generic [ref=e145]:
+                  - img [ref=e146]
+                  - text: "4.7"
+                - generic [ref=e148]: (340)
+              - generic [ref=e150]: No Cost EMI
+              - generic [ref=e151]: Sold out
+          - link "Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey Notify ₹11039 ₹20999 ₹10.0K OFF ₹1058/month EMI Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey 1 pc 128 GB 4.2 (750) No Cost EMI Sold out" [ref=e152] [cursor=pointer]:
+            - /url: /pn/realme-pad-2-lite-110-display-4gb-ram-128gb-rom-space-grey/pvid/a925852a-b12e-4379-add6-c405c5b3960c
+            - generic [ref=e153]:
+              - generic [ref=e155]:
+                - img "Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey" [ref=e156]
+                - button "Notify" [ref=e157]:
+                  - img [ref=e158]
+                  - text: Notify
+              - generic [ref=e160]:
+                - generic [ref=e161]: ₹11039
+                - generic [ref=e162]: ₹20999
+              - generic [ref=e164]:
+                - generic [ref=e165]: ₹10.0K
+                - generic [ref=e166]: "OFF"
+              - generic [ref=e169]: ₹1058/month EMI
+              - generic [ref=e170]: Realme Pad 2 Lite | 11.0" Display | 4GB RAM | 128GB ROM | Space Grey
+              - generic [ref=e171]: 1 pc
+              - generic [ref=e173]: 128 GB
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - img [ref=e177]
+                  - text: "4.2"
+                - generic [ref=e179]: (750)
+              - generic [ref=e181]: No Cost EMI
+              - generic [ref=e182]: Sold out
+          - link "Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey Notify ₹12509 ₹24999 ₹12.5K OFF ₹1199/month EMI Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey 1 pc 128 GB 5 (58) No Cost EMI Sold out" [ref=e183] [cursor=pointer]:
+            - /url: /pn/realme-pad-2-lite-110-display-8gb-ram-128gb-rom-space-grey/pvid/cee34653-27e3-4d05-a97a-a6a5aaa46729
+            - generic [ref=e184]:
+              - generic [ref=e186]:
+                - img "Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey" [ref=e187]
+                - button "Notify" [ref=e188]:
+                  - img [ref=e189]
+                  - text: Notify
+              - generic [ref=e191]:
+                - generic [ref=e192]: ₹12509
+                - generic [ref=e193]: ₹24999
+              - generic [ref=e195]:
+                - generic [ref=e196]: ₹12.5K
+                - generic [ref=e197]: "OFF"
+              - generic [ref=e200]: ₹1199/month EMI
+              - generic [ref=e201]: Realme Pad 2 Lite | 11.0" Display | 8GB RAM | 128GB ROM | Space Grey
+              - generic [ref=e202]: 1 pc
+              - generic [ref=e204]: 128 GB
+              - generic [ref=e206]:
+                - generic [ref=e207]:
+                  - img [ref=e208]
+                  - text: "5"
+                - generic [ref=e210]: (58)
+              - generic [ref=e212]: No Cost EMI
+              - generic [ref=e213]: Sold out
+          - 'link "Xiaomi Redmi Pad Se 6+128 GB | Purple Notify ₹11999 ₹16999 ₹5K OFF ₹1150/month EMI Xiaomi Redmi Pad Se 6+128 GB | Purple 1 pc RAM: 6 GB 4.6 (137) No Cost EMI Sold out" [ref=e214] [cursor=pointer]':
+            - /url: /pn/xiaomi-redmi-pad-se-6128-gb-purple/pvid/2162185a-e6a1-46a8-b39e-fd522af2a414
+            - generic [ref=e215]:
+              - generic [ref=e217]:
+                - img "Xiaomi Redmi Pad Se 6+128 GB | Purple" [ref=e218]
+                - button "Notify" [ref=e219]:
+                  - img [ref=e220]
+                  - text: Notify
+              - generic [ref=e222]:
+                - generic [ref=e223]: ₹11999
+                - generic [ref=e224]: ₹16999
+              - generic [ref=e226]:
+                - generic [ref=e227]: ₹5K
+                - generic [ref=e228]: "OFF"
+              - generic [ref=e231]: ₹1150/month EMI
+              - generic [ref=e232]: Xiaomi Redmi Pad Se 6+128 GB | Purple
+              - generic [ref=e233]: 1 pc
+              - generic [ref=e235]: "RAM: 6 GB"
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - img [ref=e239]
+                  - text: "4.6"
+                - generic [ref=e241]: (137)
+              - generic [ref=e243]: No Cost EMI
+              - generic [ref=e244]: Sold out
+          - generic [ref=e246]:
+            - heading "You might also like" [level=4] [ref=e247]
+            - generic [ref=e250]:
+              - generic [ref=e251]:
+                - link "Portronics Beem 470 Smart LED Projector with 1080p Full HD Resolution, Rotatable Design, Built-in Streaming Apps (Netflix, Prime Video, Hotstar), 4500 Lumens, Screen Mirroring, 5 Watt Speaker - Black ADD ₹7999 ₹22999 ₹15K OFF ₹767/month EMI Portronics Beem 470 Smart LED Projector with 1080p Full HD Resolution, Rotatable Design, Built-in Streaming Apps (Netflix, Prime Video, Hotstar), 4500 Lumens, Screen Mirroring, 5 Watt Speaker - Black 1 pc 5W Speaker No Cost EMI" [ref=e253] [cursor=pointer]:
+                  - /url: /pn/portronics-beem-470-smart-led-projector-with-1080p-full-hd-resolution-rotatable-design-built-in-streaming-apps-netflix-prime-video-hotstar-4500-lumens-screen-mirroring-5-watt-speaker-black/pvid/3bbe96ff-3873-4ed1-8625-6791dd8b86d5
+                  - generic [ref=e254]:
+                    - generic [ref=e256]:
+                      - img "Portronics Beem 470 Smart LED Projector with 1080p Full HD Resolution, Rotatable Design, Built-in Streaming Apps (Netflix, Prime Video, Hotstar), 4500 Lumens, Screen Mirroring, 5 Watt Speaker - Black" [ref=e257]
+                      - button "ADD" [ref=e258]
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: ₹7999
+                      - generic [ref=e261]: ₹22999
+                    - generic [ref=e263]:
+                      - generic [ref=e264]: ₹15K
+                      - generic [ref=e265]: "OFF"
+                    - generic [ref=e268]: ₹767/month EMI
+                    - generic [ref=e269]: Portronics Beem 470 Smart LED Projector with 1080p Full HD Resolution, Rotatable Design, Built-in Streaming Apps (Netflix, Prime Video, Hotstar), 4500 Lumens, Screen Mirroring, 5 Watt Speaker - Black
+                    - generic [ref=e270]: 1 pc
+                    - generic [ref=e272]: 5W Speaker
+                    - generic [ref=e274]: No Cost EMI
+                - link "Noise Buds Vs102 Elite TWS Earbuds with 50Hr Playtime, ENC, Quad Mic, Chrome finish Flybird Design Bluetooth - Forest Green ADD P3 - Ad.png ₹999 ₹3499 ₹2.5K OFF Noise Buds Vs102 Elite TWS Earbuds with 50Hr Playtime, ENC, Quad Mic, Chrome finish Flybird Design Bluetooth - Forest Green 1 pair 50 hrs Playback 4 (930) Open Box Delivery" [ref=e276] [cursor=pointer]:
+                  - /url: /pn/noise-buds-vs102-elite-tws-earbuds-with-50hr-playtime-enc-quad-mic-chrome-finish-flybird-design-bluetooth-forest-green/pvid/1959520c-02e9-4fa0-8e04-1b99b3df7f14
+                  - generic [ref=e277]:
+                    - generic [ref=e279]:
+                      - img "Noise Buds Vs102 Elite TWS Earbuds with 50Hr Playtime, ENC, Quad Mic, Chrome finish Flybird Design Bluetooth - Forest Green" [ref=e280]
+                      - button "ADD" [ref=e281]
+                      - img "P3 - Ad.png" [ref=e283]
+                    - generic [ref=e284]:
+                      - generic [ref=e285]: ₹999
+                      - generic [ref=e286]: ₹3499
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: ₹2.5K
+                      - generic [ref=e290]: "OFF"
+                    - generic [ref=e292]: Noise Buds Vs102 Elite TWS Earbuds with 50Hr Playtime, ENC, Quad Mic, Chrome finish Flybird Design Bluetooth - Forest Green
+                    - generic [ref=e293]: 1 pair
+                    - generic [ref=e295]: 50 hrs Playback
+                    - generic [ref=e297]:
+                      - generic [ref=e298]:
+                        - img [ref=e299]
+                        - text: "4"
+                      - generic [ref=e301]: (930)
+                    - generic [ref=e303]: Open Box Delivery
+                - link "Fire-Boltt Ninja Call Pro Max Smartwatch | 2.01\" Display | BT Calling - Black ADD ₹1059 ₹14999 ₹13.9K OFF Fire-Boltt Ninja Call Pro Max Smartwatch | 2.01\" Display | BT Calling - Black 1 pc BT Calling Open Box Delivery" [ref=e305] [cursor=pointer]:
+                  - /url: /pn/fire-boltt-ninja-call-pro-max-smartwatch-201-display-bt-calling-black/pvid/64c5aaa9-f502-4cd6-ba7b-1665fabc673e
+                  - generic [ref=e306]:
+                    - generic [ref=e308]:
+                      - img "Fire-Boltt Ninja Call Pro Max Smartwatch | 2.01\" Display | BT Calling - Black" [ref=e309]
+                      - button "ADD" [ref=e310]
+                    - generic [ref=e311]:
+                      - generic [ref=e312]: ₹1059
+                      - generic [ref=e313]: ₹14999
+                    - generic [ref=e315]:
+                      - generic [ref=e316]: ₹13.9K
+                      - generic [ref=e317]: "OFF"
+                    - generic [ref=e319]: Fire-Boltt Ninja Call Pro Max Smartwatch | 2.01" Display | BT Calling - Black
+                    - generic [ref=e320]: 1 pc
+                    - generic [ref=e322]: BT Calling
+                    - generic [ref=e324]: Open Box Delivery
+                - link "Nu Republic Epic X3 TWS Earbuds | 48 hrs Playtime | X Bass Tech, ENC Mic | Type-C Fast Charge | Blue ADD ₹599 ₹3499 ₹2.9K OFF Nu Republic Epic X3 TWS Earbuds | 48 hrs Playtime | X Bass Tech, ENC Mic | Type-C Fast Charge | Blue 1 pair 48 hrs Playback Open Box Delivery" [ref=e326] [cursor=pointer]:
+                  - /url: /pn/nu-republic-epic-x3-tws-earbuds-48-hrs-playtime-x-bass-tech-enc-mic-type-c-fast-charge-blue/pvid/f4fe1b7f-2922-4ff0-ba43-a39a774be08f
+                  - generic [ref=e327]:
+                    - generic [ref=e329]:
+                      - img "Nu Republic Epic X3 TWS Earbuds | 48 hrs Playtime | X Bass Tech, ENC Mic | Type-C Fast Charge | Blue" [ref=e330]
+                      - button "ADD" [ref=e331]
+                    - generic [ref=e332]:
+                      - generic [ref=e333]: ₹599
+                      - generic [ref=e334]: ₹3499
+                    - generic [ref=e336]:
+                      - generic [ref=e337]: ₹2.9K
+                      - generic [ref=e338]: "OFF"
+                    - generic [ref=e340]: Nu Republic Epic X3 TWS Earbuds | 48 hrs Playtime | X Bass Tech, ENC Mic | Type-C Fast Charge | Blue
+                    - generic [ref=e341]: 1 pair
+                    - generic [ref=e343]: 48 hrs Playback
+                    - generic [ref=e345]: Open Box Delivery
+                - link "boAt Airdopes 141 Gen 2 | Active Black ADD P3 - Ad.png ₹799 ₹3990 ₹3.2K OFF boAt Airdopes 141 Gen 2 | Active Black 1 pc 48 hrs Playback 4 (166) Open Box Delivery" [ref=e347] [cursor=pointer]:
+                  - /url: /pn/boat-airdopes-141-gen-2-active-black/pvid/78ec4027-272a-40f1-aae0-cf7420b3cb00
+                  - generic [ref=e348]:
+                    - generic [ref=e350]:
+                      - img "boAt Airdopes 141 Gen 2 | Active Black" [ref=e351]
+                      - button "ADD" [ref=e352]
+                      - img "P3 - Ad.png" [ref=e354]
+                    - generic [ref=e355]:
+                      - generic [ref=e356]: ₹799
+                      - generic [ref=e357]: ₹3990
+                    - generic [ref=e359]:
+                      - generic [ref=e360]: ₹3.2K
+                      - generic [ref=e361]: "OFF"
+                    - generic [ref=e363]: boAt Airdopes 141 Gen 2 | Active Black
+                    - generic [ref=e364]: 1 pc
+                    - generic [ref=e366]: 48 hrs Playback
+                    - generic [ref=e368]:
+                      - generic [ref=e369]:
+                        - img [ref=e370]
+                        - text: "4"
+                      - generic [ref=e372]: (166)
+                    - generic [ref=e374]: Open Box Delivery
+                - link "Portronics Key2 Wireless Keyboard and Mouse Combo - 2.4 GHz Wireless Technology ADD ₹1099 ₹1499 ₹400 OFF Portronics Key2 Wireless Keyboard and Mouse Combo - 2.4 GHz Wireless Technology 1 set 2.4 ghz Open Box Delivery" [ref=e376] [cursor=pointer]:
+                  - /url: /pn/portronics-key2-wireless-keyboard-and-mouse-combo-24-ghz-wireless-technology/pvid/67601344-0429-478c-8766-b3ff3b25d363
+                  - generic [ref=e377]:
+                    - generic [ref=e379]:
+                      - img "Portronics Key2 Wireless Keyboard and Mouse Combo - 2.4 GHz Wireless Technology" [ref=e380]
+                      - button "ADD" [ref=e381]
+                    - generic [ref=e382]:
+                      - generic [ref=e383]: ₹1099
+                      - generic [ref=e384]: ₹1499
+                    - generic [ref=e386]:
+                      - generic [ref=e387]: ₹400
+                      - generic [ref=e388]: "OFF"
+                    - generic [ref=e390]: Portronics Key2 Wireless Keyboard and Mouse Combo - 2.4 GHz Wireless Technology
+                    - generic [ref=e391]: 1 set
+                    - generic [ref=e393]: 2.4 ghz
+                    - generic [ref=e395]: Open Box Delivery
+                - link "Lifelong LLMG300 Power Pro LX Mixer Grinder | 500W | 3 Jars | Liquidizing Grinding Chutney | Black ADD ₹1299 ₹4000 ₹2.7K OFF Lifelong LLMG300 Power Pro LX Mixer Grinder | 500W | 3 Jars | Liquidizing Grinding Chutney | Black 1 set (4 pcs) 500 W Open Box Delivery" [ref=e397] [cursor=pointer]:
+                  - /url: /pn/lifelong-llmg300-power-pro-lx-mixer-grinder-500w-3-jars-liquidizing-grinding-chutney-black/pvid/50fe5351-e988-4cca-9069-0d3856765b5c
+                  - generic [ref=e398]:
+                    - generic [ref=e400]:
+                      - img "Lifelong LLMG300 Power Pro LX Mixer Grinder | 500W | 3 Jars | Liquidizing Grinding Chutney | Black" [ref=e401]
+                      - button "ADD" [ref=e402]
+                    - generic [ref=e403]:
+                      - generic [ref=e404]: ₹1299
+                      - generic [ref=e405]: ₹4000
+                    - generic [ref=e407]:
+                      - generic [ref=e408]: ₹2.7K
+                      - generic [ref=e409]: "OFF"
+                    - generic [ref=e411]: Lifelong LLMG300 Power Pro LX Mixer Grinder | 500W | 3 Jars | Liquidizing Grinding Chutney | Black
+                    - generic [ref=e412]: 1 set (4 pcs)
+                    - generic [ref=e414]: 500 W
+                    - generic [ref=e416]: Open Box Delivery
+                - link "boAt Nirvana Ion Anc Pro W/ Hi-Res Audio With Ldac, Anc, 120 Hrs Playback, Multipoint ADD P3 - Ad.png ₹2299 ₹13990 ₹11.7K OFF boAt Nirvana Ion Anc Pro W/ Hi-Res Audio With Ldac, Anc, 120 Hrs Playback, Multipoint 1 pc 120 hrs Playback 4 (237) Open Box Delivery" [ref=e418] [cursor=pointer]:
+                  - /url: /pn/boat-nirvana-ion-anc-pro-w-hi-res-audio-with-ldac-anc-120-hrs-playback-multipoint/pvid/c9876aa2-2c16-4f62-af6a-f4994809253f
+                  - generic [ref=e419]:
+                    - generic [ref=e421]:
+                      - img "boAt Nirvana Ion Anc Pro W/ Hi-Res Audio With Ldac, Anc, 120 Hrs Playback, Multipoint" [ref=e422]
+                      - button "ADD" [ref=e423]
+                      - img "P3 - Ad.png" [ref=e425]
+                    - generic [ref=e426]:
+                      - generic [ref=e427]: ₹2299
+                      - generic [ref=e428]: ₹13990
+                    - generic [ref=e430]:
+                      - generic [ref=e431]: ₹11.7K
+                      - generic [ref=e432]: "OFF"
+                    - generic [ref=e434]: boAt Nirvana Ion Anc Pro W/ Hi-Res Audio With Ldac, Anc, 120 Hrs Playback, Multipoint
+                    - generic [ref=e435]: 1 pc
+                    - generic [ref=e437]: 120 hrs Playback
+                    - generic [ref=e439]:
+                      - generic [ref=e440]:
+                        - img [ref=e441]
+                        - text: "4"
+                      - generic [ref=e443]: (237)
+                    - generic [ref=e445]: Open Box Delivery
+                - link "Portronics SoundDrum P 20W Bluetooth Speaker | Multi | Connectivity | 6 | 7 Hours Play Time ADD ₹1889 ₹3999 ₹2.1K OFF Portronics SoundDrum P 20W Bluetooth Speaker | Multi | Connectivity | 6 | 7 Hours Play Time 1 pc 6 - 7 hrs Playback Open Box Delivery" [ref=e447] [cursor=pointer]:
+                  - /url: /pn/portronics-sounddrum-p-20w-bluetooth-speaker-multi-connectivity-6-7-hours-play-time/pvid/797fa8c9-82d8-4ab3-872c-899082d8b3b0
+                  - generic [ref=e448]:
+                    - generic [ref=e450]:
+                      - img "Portronics SoundDrum P 20W Bluetooth Speaker | Multi | Connectivity | 6 | 7 Hours Play Time" [ref=e451]
+                      - button "ADD" [ref=e452]
+                    - generic [ref=e453]:
+                      - generic [ref=e454]: ₹1889
+                      - generic [ref=e455]: ₹3999
+                    - generic [ref=e457]:
+                      - generic [ref=e458]: ₹2.1K
+                      - generic [ref=e459]: "OFF"
+                    - generic [ref=e461]: Portronics SoundDrum P 20W Bluetooth Speaker | Multi | Connectivity | 6 | 7 Hours Play Time
+                    - generic [ref=e462]: 1 pc
+                    - generic [ref=e464]: 6 - 7 hrs Playback
+                    - generic [ref=e466]: Open Box Delivery
+                - link "Logitech H111 Wired On Ear Headphones With Mic, 3.5 mm Audio Jack Connection - Black ADD ₹745 ₹955 ₹210 OFF Logitech H111 Wired On Ear Headphones With Mic, 3.5 mm Audio Jack Connection - Black 1 pc 3.5mm Jack Open Box Delivery" [ref=e468] [cursor=pointer]:
+                  - /url: /pn/logitech-h111-wired-on-ear-headphones-with-mic-35-mm-audio-jack-connection-black/pvid/165ce94d-7f97-4e9f-b27e-6968936a34ae
+                  - generic [ref=e469]:
+                    - generic [ref=e471]:
+                      - img "Logitech H111 Wired On Ear Headphones With Mic, 3.5 mm Audio Jack Connection - Black" [ref=e472]
+                      - button "ADD" [ref=e473]
+                    - generic [ref=e474]:
+                      - generic [ref=e475]: ₹745
+                      - generic [ref=e476]: ₹955
+                    - generic [ref=e478]:
+                      - generic [ref=e479]: ₹210
+                      - generic [ref=e480]: "OFF"
+                    - generic [ref=e482]: Logitech H111 Wired On Ear Headphones With Mic, 3.5 mm Audio Jack Connection - Black
+                    - generic [ref=e483]: 1 pc
+                    - generic [ref=e485]: 3.5mm Jack
+                    - generic [ref=e487]: Open Box Delivery
+                - link "Portronics Clamp M2 Car Mobile Holder - Strong Suction Cup ADD ₹209 ₹899 ₹690 OFF Portronics Clamp M2 Car Mobile Holder - Strong Suction Cup 1 pc Suction Cup" [ref=e489] [cursor=pointer]:
+                  - /url: /pn/portronics-clamp-m2-car-mobile-holder-strong-suction-cup/pvid/7bbbd741-43d5-4995-b060-4a1bb7f0570f
+                  - generic [ref=e490]:
+                    - generic [ref=e492]:
+                      - img "Portronics Clamp M2 Car Mobile Holder - Strong Suction Cup" [ref=e493]
+                      - button "ADD" [ref=e494]
+                    - generic [ref=e495]:
+                      - generic [ref=e496]: ₹209
+                      - generic [ref=e497]: ₹899
+                    - generic [ref=e499]:
+                      - generic [ref=e500]: ₹690
+                      - generic [ref=e501]: "OFF"
+                    - generic [ref=e503]: Portronics Clamp M2 Car Mobile Holder - Strong Suction Cup
+                    - generic [ref=e504]: 1 pc
+                    - generic [ref=e506]: Suction Cup
+                - link "boAt (PB400) 20000 mAh wired Power Bank w/ 2-Way 22.5W Fast Charging & Smart Power Management - Carbon Black ADD ₹1699 ₹4499 ₹2.8K OFF boAt (PB400) 20000 mAh wired Power Bank w/ 2-Way 22.5W Fast Charging & Smart Power Management - Carbon Black 1 pc 20000 mAh Open Box Delivery" [ref=e508] [cursor=pointer]:
+                  - /url: /pn/boat-pb400-20000-mah-wired-power-bank-w-2-way-225w-fast-charging-smart-power-management-carbon-black/pvid/edd55744-75f8-42da-a6d1-88afc998618a
+                  - generic [ref=e509]:
+                    - generic [ref=e511]:
+                      - img "boAt (PB400) 20000 mAh wired Power Bank w/ 2-Way 22.5W Fast Charging & Smart Power Management - Carbon Black" [ref=e512]
+                      - button "ADD" [ref=e513]
+                    - generic [ref=e514]:
+                      - generic [ref=e515]: ₹1699
+                      - generic [ref=e516]: ₹4499
+                    - generic [ref=e518]:
+                      - generic [ref=e519]: ₹2.8K
+                      - generic [ref=e520]: "OFF"
+                    - generic [ref=e522]: boAt (PB400) 20000 mAh wired Power Bank w/ 2-Way 22.5W Fast Charging & Smart Power Management - Carbon Black
+                    - generic [ref=e523]: 1 pc
+                    - generic [ref=e525]: 20000 mAh
+                    - generic [ref=e527]: Open Box Delivery
+                - link "Portronics Harmonics Z10 in Ear Bluetooth Headphone with Mic, 35Hour Playtime,10mm Driver, Magnetic Earbuds, Voice Assistant, Bluetooth 5.3V, IPX4 Water/Sweat Resistance, Type C Fast Charging - Black ADD ₹419 ₹1999 ₹1.6K OFF Portronics Harmonics Z10 in Ear Bluetooth Headphone with Mic, 35Hour Playtime,10mm Driver, Magnetic Earbuds, Voice Assistant, Bluetooth 5.3V, IPX4 Water/Sweat Resistance, Type C Fast Charging - Black 1 pc 35 hrs Playback Instant Return" [ref=e529] [cursor=pointer]:
+                  - /url: /pn/portronics-harmonics-z10-in-ear-bluetooth-headphone-with-mic-35hour-playtime10mm-driver-magnetic-earbuds-voice-assistant-bluetooth-53v-ipx4-watersweat-resistance-type-c-fast-charging-black/pvid/ae2c69c3-d34a-4ae0-97e2-963eeab9bfcd
+                  - generic [ref=e530]:
+                    - generic [ref=e532]:
+                      - img "Portronics Harmonics Z10 in Ear Bluetooth Headphone with Mic, 35Hour Playtime,10mm Driver, Magnetic Earbuds, Voice Assistant, Bluetooth 5.3V, IPX4 Water/Sweat Resistance, Type C Fast Charging - Black" [ref=e533]
+                      - button "ADD" [ref=e534]
+                    - generic [ref=e535]:
+                      - generic [ref=e536]: ₹419
+                      - generic [ref=e537]: ₹1999
+                    - generic [ref=e539]:
+                      - generic [ref=e540]: ₹1.6K
+                      - generic [ref=e541]: "OFF"
+                    - generic [ref=e543]: Portronics Harmonics Z10 in Ear Bluetooth Headphone with Mic, 35Hour Playtime,10mm Driver, Magnetic Earbuds, Voice Assistant, Bluetooth 5.3V, IPX4 Water/Sweat Resistance, Type C Fast Charging - Black
+                    - generic [ref=e544]: 1 pc
+                    - generic [ref=e546]: 35 hrs Playback
+                    - generic [ref=e548]: Instant Return
+                - link "Portronics C-Konnect 3-In-1 USB Type C Adapter - White | Type-C + USB + HDMI ADD ₹509 ₹2499 ₹2.0K OFF Portronics C-Konnect 3-In-1 USB Type C Adapter - White | Type-C + USB + HDMI 1 pc 3 in 1 Open Box Delivery" [ref=e550] [cursor=pointer]:
+                  - /url: /pn/portronics-c-konnect-3-in-1-usb-type-c-adapter-white-type-c-usb-hdmi/pvid/445ab478-e52f-4ec9-b840-8706dbe36765
+                  - generic [ref=e551]:
+                    - generic [ref=e553]:
+                      - img "Portronics C-Konnect 3-In-1 USB Type C Adapter - White | Type-C + USB + HDMI" [ref=e554]
+                      - button "ADD" [ref=e555]
+                    - generic [ref=e556]:
+                      - generic [ref=e557]: ₹509
+                      - generic [ref=e558]: ₹2499
+                    - generic [ref=e560]:
+                      - generic [ref=e561]: ₹2.0K
+                      - generic [ref=e562]: "OFF"
+                    - generic [ref=e564]: Portronics C-Konnect 3-In-1 USB Type C Adapter - White | Type-C + USB + HDMI
+                    - generic [ref=e565]: 1 pc
+                    - generic [ref=e567]: 3 in 1
+                    - generic [ref=e569]: Open Box Delivery
+                - link "Ambrane Type-C to Lightning USB Cable, 22.5W Fast Charging, 480Mbps Data Sync Cable Compatible with iPhone, iPad, Macbook, iMac, AirPods, 1.25m (ABTL-125) - Black ADD ₹109 ₹499 ₹390 OFF Ambrane Type-C to Lightning USB Cable, 22.5W Fast Charging, 480Mbps Data Sync Cable Compatible with iPhone, iPad, Macbook, iMac, AirPods, 1.25m (ABTL-125) - Black 1 pc Length:1.25m Bestseller" [ref=e571] [cursor=pointer]:
+                  - /url: /pn/ambrane-type-c-to-lightning-usb-cable-225w-fast-charging-480mbps-data-sync-cable-compatible-with-iphone-ipad-macbook-imac-airpods-125m-abtl-125-black/pvid/db6bf6de-7c2c-4d19-9b67-5175169595c1
+                  - generic [ref=e572]:
+                    - generic [ref=e574]:
+                      - img "Ambrane Type-C to Lightning USB Cable, 22.5W Fast Charging, 480Mbps Data Sync Cable Compatible with iPhone, iPad, Macbook, iMac, AirPods, 1.25m (ABTL-125) - Black" [ref=e575]
+                      - button "ADD" [ref=e576]
+                    - generic [ref=e577]:
+                      - generic [ref=e578]: ₹109
+                      - generic [ref=e579]: ₹499
+                    - generic [ref=e581]:
+                      - generic [ref=e582]: ₹390
+                      - generic [ref=e583]: "OFF"
+                    - generic [ref=e585]: Ambrane Type-C to Lightning USB Cable, 22.5W Fast Charging, 480Mbps Data Sync Cable Compatible with iPhone, iPad, Macbook, iMac, AirPods, 1.25m (ABTL-125) - Black
+                    - generic [ref=e586]: 1 pc
+                    - generic [ref=e588]: Length:1.25m
+                    - generic [ref=e589]: Bestseller
+                - link "Eveready 9W LED Bulb, Cool Day Light | 6500K, B22 Base, 4kV Surge Protection, Long-Lasting Durability ADD ₹49 ₹140 ₹91 OFF Eveready 9W LED Bulb, Cool Day Light | 6500K, B22 Base, 4kV Surge Protection, Long-Lasting Durability 1 pc 9 W" [ref=e591] [cursor=pointer]:
+                  - /url: /pn/eveready-9w-led-bulb-cool-day-light-6500k-b22-base-4kv-surge-protection-long-lasting-durability/pvid/f76e53e0-c16e-4c41-bb58-d6154cfc833e
+                  - generic [ref=e592]:
+                    - generic [ref=e594]:
+                      - img "Eveready 9W LED Bulb, Cool Day Light | 6500K, B22 Base, 4kV Surge Protection, Long-Lasting Durability" [ref=e595]
+                      - button "ADD" [ref=e596]
+                    - generic [ref=e597]:
+                      - generic [ref=e598]: ₹49
+                      - generic [ref=e599]: ₹140
+                    - generic [ref=e601]:
+                      - generic [ref=e602]: ₹91
+                      - generic [ref=e603]: "OFF"
+                    - generic [ref=e605]: Eveready 9W LED Bulb, Cool Day Light | 6500K, B22 Base, 4kV Surge Protection, Long-Lasting Durability
+                    - generic [ref=e606]: 1 pc
+                    - generic [ref=e608]: 9 W
+                - link "DesiDiya String LED Rice Light | Gold | 12 M ADD ₹59 ₹999 ₹940 OFF DesiDiya String LED Rice Light | Gold | 12 M 1 pc 5 W" [ref=e610] [cursor=pointer]:
+                  - /url: /pn/desidiya-string-led-rice-light-gold-12-m/pvid/5f18d382-c085-4456-b25a-cc1d7708097e
+                  - generic [ref=e611]:
+                    - generic [ref=e613]:
+                      - img "DesiDiya String LED Rice Light | Gold | 12 M" [ref=e614]
+                      - button "ADD" [ref=e615]
+                    - generic [ref=e616]:
+                      - generic [ref=e617]: ₹59
+                      - generic [ref=e618]: ₹999
+                    - generic [ref=e620]:
+                      - generic [ref=e621]: ₹940
+                      - generic [ref=e622]: "OFF"
+                    - generic [ref=e624]: DesiDiya String LED Rice Light | Gold | 12 M
+                    - generic [ref=e625]: 1 pc
+                    - generic [ref=e627]: 5 W
+              - button [ref=e629] [cursor=pointer]:
+                - img [ref=e630]
+        - generic [ref=e634]:
+          - generic [ref=e636]:
+            - heading "Tablet" [level=2] [ref=e637]
+            - paragraph [ref=e638]: Shop for tablet online and get fast delivery at the best prices on Zepto. We offer a wide selection of quality products to meet all your needs.
+            - generic [ref=e639]:
+              - heading "Popular Products:" [level=3] [ref=e640]
+              - generic [ref=e641]:
+                - link "Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey" [ref=e642] [cursor=pointer]:
+                  - /url: /pn/lenovo-tab-m10-101-inch-4gb-ram-64gb-rom-wi-fi4g-lte-storm-grey/pvid/7843c7ea-6445-4912-91f9-f2ecfe8fc9a3
+                - link "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey" [ref=e643] [cursor=pointer]:
+                  - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-wifi-imagination-grey/pvid/dafd9012-0d0b-4cba-bcca-c9ea584dfe8c
+                - link "Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey" [ref=e644] [cursor=pointer]:
+                  - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-lte-imagination-grey/pvid/cbeec18d-eef9-47ed-8aaa-5949e8211460
+            - generic [ref=e645]:
+              - heading "Popular Brands:" [level=3] [ref=e646]
+              - generic [ref=e647]:
+                - link "Lenovo Visuals" [ref=e648] [cursor=pointer]:
+                  - /url: /brand/Lenovo_Visuals
+                - link "Realme" [ref=e649] [cursor=pointer]:
+                  - /url: /brand/Realme
+                - link "Xiaomi" [ref=e650] [cursor=pointer]:
+                  - /url: /brand/Xiaomi
+          - table "Tablet Price List" [ref=e653]:
+            - caption [ref=e654]: Tablet Price List
+            - rowgroup [ref=e655]:
+              - row "Tablet Price" [ref=e656]:
+                - columnheader "Tablet" [ref=e657]
+                - columnheader "Price" [ref=e658]
+            - rowgroup [ref=e659]:
+              - row "1. Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey ₹11409" [ref=e660]:
+                - cell "1. Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey" [ref=e661]:
+                  - link "1. Lenovo Tab M10 | 10.1 inch | 4GB RAM | 64GB ROM | Wi-Fi+4G LTE | Storm Grey" [ref=e662] [cursor=pointer]:
+                    - /url: /pn/lenovo-tab-m10-101-inch-4gb-ram-64gb-rom-wi-fi4g-lte-storm-grey/pvid/7843c7ea-6445-4912-91f9-f2ecfe8fc9a3
+                - cell "₹11409" [ref=e663]
+              - row "2. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey ₹13209" [ref=e664]:
+                - cell "2. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey" [ref=e665]:
+                  - link "2. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Wifi | Imagination Grey" [ref=e666] [cursor=pointer]:
+                    - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-wifi-imagination-grey/pvid/dafd9012-0d0b-4cba-bcca-c9ea584dfe8c
+                - cell "₹13209" [ref=e667]
+              - row "3. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey ₹16559" [ref=e668]:
+                - cell "3. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey" [ref=e669]:
+                  - link "3. Realme Pad 2 | 11.5\" Display | 6GB RAM | 128GB ROM | Lte | Imagination Grey" [ref=e670] [cursor=pointer]:
+                    - /url: /pn/realme-pad-2-115-display-6gb-ram-128gb-rom-lte-imagination-grey/pvid/cbeec18d-eef9-47ed-8aaa-5949e8211460
+                - cell "₹16559" [ref=e671]
+              - row "4. Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey ₹11039" [ref=e672]:
+                - cell "4. Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey" [ref=e673]:
+                  - link "4. Realme Pad 2 Lite | 11.0\" Display | 4GB RAM | 128GB ROM | Space Grey" [ref=e674] [cursor=pointer]:
+                    - /url: /pn/realme-pad-2-lite-110-display-4gb-ram-128gb-rom-space-grey/pvid/a925852a-b12e-4379-add6-c405c5b3960c
+                - cell "₹11039" [ref=e675]
+              - row "5. Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey ₹12509" [ref=e676]:
+                - cell "5. Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey" [ref=e677]:
+                  - link "5. Realme Pad 2 Lite | 11.0\" Display | 8GB RAM | 128GB ROM | Space Grey" [ref=e678] [cursor=pointer]:
+                    - /url: /pn/realme-pad-2-lite-110-display-8gb-ram-128gb-rom-space-grey/pvid/cee34653-27e3-4d05-a97a-a6a5aaa46729
+                - cell "₹12509" [ref=e679]
+              - row "6. Xiaomi Redmi Pad Se 6+128 GB | Purple ₹11999" [ref=e680]:
+                - cell "6. Xiaomi Redmi Pad Se 6+128 GB | Purple" [ref=e681]:
+                  - link "6. Xiaomi Redmi Pad Se 6+128 GB | Purple" [ref=e682] [cursor=pointer]:
+                    - /url: /pn/xiaomi-redmi-pad-se-6128-gb-purple/pvid/2162185a-e6a1-46a8-b39e-fd522af2a414
+                - cell "₹11999" [ref=e683]
+            - rowgroup [ref=e684]:
+              - row "The data was last updated on 26/3/2026" [ref=e685]:
+                - cell "The data was last updated on 26/3/2026" [ref=e686]
+        - generic [ref=e688]:
+          - heading "How it Works" [level=2] [ref=e689]
+          - generic [ref=e690]:
+            - generic [ref=e692]:
+              - heading "Open the app" [level=4] [ref=e693]
+              - paragraph [ref=e694]: Choose from over 7000 products across groceries, fresh fruits & veggies, meat, pet care, beauty items & more
+            - generic [ref=e696]:
+              - heading "Place an order" [level=4] [ref=e697]
+              - paragraph [ref=e698]: Add your favourite items to the cart & avail the best offers
+            - generic [ref=e700]:
+              - heading "Get free delivery" [level=4] [ref=e701]
+              - paragraph [ref=e702]: Experience lighting-fast speed & get all your items delivered in minutes
+          - generic [ref=e703]:
+            - heading "Popular Searches" [level=3] [ref=e705]
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - heading "Products" [level=4] [ref=e708]
+                - generic [ref=e709]: ":"
+                - list [ref=e710]:
+                  - listitem [ref=e711]:
+                    - link "Avocado" [ref=e712] [cursor=pointer]:
+                      - /url: /pn/avocado-indian-premium-semi-ripe/pvid/10a847f5-b72b-42b8-b1b7-619a26bccf90
+                    - text: "|"
+                  - listitem [ref=e713]:
+                    - link "Strawberry" [ref=e714] [cursor=pointer]:
+                      - /url: /pn/strawberry-mahabaleshwar/pvid/d0a3ad74-8c00-4b37-bd4c-d87cef26714e
+                    - text: "|"
+                  - listitem [ref=e715]:
+                    - link "Pomegranate" [ref=e716] [cursor=pointer]:
+                      - /url: /pn/pomegranate/pvid/085b06eb-cf40-4922-acee-ad29826410f5
+                    - text: "|"
+                  - listitem [ref=e717]:
+                    - link "Beetroot" [ref=e718] [cursor=pointer]:
+                      - /url: /pn/beetroot/pvid/02276424-5793-4830-aefa-4ba54145e0e3
+                    - text: "|"
+                  - listitem [ref=e719]:
+                    - link "Ash gourd" [ref=e720] [cursor=pointer]:
+                      - /url: /pn/ash-gourd/pvid/aa891942-3ce5-437e-bb11-0120ae085874
+                    - text: "|"
+                  - listitem [ref=e721]:
+                    - link "Bottle gourd" [ref=e722] [cursor=pointer]:
+                      - /url: /pn/bottle-gourd/pvid/21dd96c3-e916-49e1-a194-9cc4d528b208
+                    - text: "|"
+                  - listitem [ref=e723]:
+                    - link "Lady finger" [ref=e724] [cursor=pointer]:
+                      - /url: /pn/lady-finger/pvid/371ecce2-6bd6-4042-b6ca-bc8a425e7b36
+                    - text: "|"
+                  - listitem [ref=e725]:
+                    - link "Potato" [ref=e726] [cursor=pointer]:
+                      - /url: /pn/fresh-potato/pvid/a8043677-61c7-4af4-b784-b6aa225306a4
+                    - text: "|"
+                  - listitem [ref=e727]:
+                    - link "Lemon" [ref=e728] [cursor=pointer]:
+                      - /url: /pn/lemon/pvid/0d043da8-bd98-456e-b424-d5312993f188
+                    - text: "|"
+                  - listitem [ref=e729]:
+                    - link "Dalchini" [ref=e730] [cursor=pointer]:
+                      - /url: /pn/popular-essentials-cinnamon-whole-dalchini/pvid/70b6574c-77b3-4715-a370-8bba207c0f4a
+                    - text: "|"
+                  - listitem [ref=e731]:
+                    - link "Fennel seeds" [ref=e732] [cursor=pointer]:
+                      - /url: /pn/popular-essentials-saunffennel-seeds/pvid/870056e6-aad4-43e6-8e38-e757dc2b028c
+                    - text: "|"
+                  - listitem [ref=e733]:
+                    - link "Blueberry" [ref=e734] [cursor=pointer]:
+                      - /url: /pn/blueberry/pvid/b7d27beb-b7da-4caa-b7a3-4e520062d9c7
+                    - text: "|"
+                  - listitem [ref=e735]:
+                    - link "Papaya" [ref=e736] [cursor=pointer]:
+                      - /url: /pn/papaya/pvid/9d6ab15c-70e5-410f-9d4b-82be81494244
+                    - text: "|"
+                  - listitem [ref=e737]:
+                    - link "Jeera" [ref=e738] [cursor=pointer]:
+                      - /url: /pn/daily-good-jeera-cumin/pvid/7a3dd73e-256d-44c3-b630-d2b48f41986e
+                    - text: "|"
+                  - listitem [ref=e739]:
+                    - link "Mushroom" [ref=e740] [cursor=pointer]:
+                      - /url: /pn/mushroom-button/pvid/178b3f0f-c01d-4065-8f5c-d1902cbb5d51
+                    - text: "|"
+                  - listitem [ref=e741]:
+                    - link "Lettuce" [ref=e742] [cursor=pointer]:
+                      - /url: /pn/lettuce-iceberg/pvid/370bf2eb-11a9-40cb-915a-998162d73593
+              - generic [ref=e743]:
+                - heading "Brands" [level=4] [ref=e744]
+                - generic [ref=e745]: ":"
+                - list [ref=e746]:
+                  - listitem [ref=e747]:
+                    - link "Yakult" [ref=e748] [cursor=pointer]:
+                      - /url: /brand/Yakult/c17eb160-a431-49e9-b7f8-42818835e80e
+                    - text: "|"
+                  - listitem [ref=e749]:
+                    - link "My Muse" [ref=e750] [cursor=pointer]:
+                      - /url: /brand/My_Muse/84dd0561-4a04-497f-bb5d-79a04c8dd7e3
+                    - text: "|"
+                  - listitem [ref=e751]:
+                    - link "Aashirvaad Atta" [ref=e752] [cursor=pointer]:
+                      - /url: /brand/Aashirvaad/963b50ed-3146-4744-8f4d-56876fdc8159
+                    - text: "|"
+                  - listitem [ref=e753]:
+                    - link "Too Yumm" [ref=e754] [cursor=pointer]:
+                      - /url: /brand/Too_yumm!/56977b67-f3de-4692-9cc1-ff897a1cd4e8
+                    - text: "|"
+                  - listitem [ref=e755]:
+                    - link "Lays" [ref=e756] [cursor=pointer]:
+                      - /url: /brand/Lay's/18d6cb72-65aa-4881-8984-a08aa295dd35
+                    - text: "|"
+                  - listitem [ref=e757]:
+                    - link "Figaro Olive Oil" [ref=e758] [cursor=pointer]:
+                      - /url: /brand/Figaro/85afa81c-2717-4ec9-af1b-f9ce76a2ccc2
+                    - text: "|"
+                  - listitem [ref=e759]:
+                    - link "Nandini Milk" [ref=e760] [cursor=pointer]:
+                      - /url: /brand/Nandini
+                    - text: "|"
+                  - listitem [ref=e761]:
+                    - link "Amul" [ref=e762] [cursor=pointer]:
+                      - /url: /brand/Amul/b27a7a24-66c5-495d-9fc0-ee6459536bb9
+                    - text: "|"
+                  - listitem [ref=e763]:
+                    - link "Mother Dairy Near Me" [ref=e764] [cursor=pointer]:
+                      - /url: /brand/Mother_dairy/eae3cecb-d310-4f17-86e4-d8dde4e90b9a
+                    - text: "|"
+                  - listitem [ref=e765]:
+                    - link "Fortune Oil" [ref=e766] [cursor=pointer]:
+                      - /url: /brand/Fortune/5febb0ec-167f-4ad7-b915-a452af31377f
+                    - text: "|"
+                  - listitem [ref=e767]:
+                    - link "Superyou" [ref=e768] [cursor=pointer]:
+                      - /url: /brand/Superyou/d2978607-a007-43a5-9fd1-eea766bed7e3
+                    - text: "|"
+                  - listitem [ref=e769]:
+                    - link "Durex Condoms" [ref=e770] [cursor=pointer]:
+                      - /url: /brand/Durex/6f57069d-e21d-4438-a56c-5636424de903
+                    - text: "|"
+                  - listitem [ref=e771]:
+                    - link "Ferns and Petals" [ref=e772] [cursor=pointer]:
+                      - /url: /brand/FNP/51c9c5b7-d531-48b8-a353-9fd3b899a140
+              - generic [ref=e773]:
+                - heading "Categories" [level=4] [ref=e774]
+                - generic [ref=e775]: ":"
+                - list [ref=e776]:
+                  - listitem [ref=e777]:
+                    - link "Grocery" [ref=e778] [cursor=pointer]:
+                      - /url: /cn/fruits-vegetables/fruits-vegetables/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/e78a8422-5f20-4e4b-9a9f-22a0e53962e3
+                    - text: "|"
+                  - listitem [ref=e779]:
+                    - link "Cigarettes" [ref=e780] [cursor=pointer]:
+                      - /url: /cn/paan-corner/cigarettes/cid/cd50825e-baf8-47fe-9abc-ed9556122a9a/scid/5bcbee47-7c83-4279-80f0-7ecc068496df
+                    - text: "|"
+                  - listitem [ref=e781]:
+                    - link "Chips" [ref=e782] [cursor=pointer]:
+                      - /url: /cn/munchies/chips-crisps/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/df4f5100-c02f-4906-83b8-ddb744081a7a
+                    - text: "|"
+                  - listitem [ref=e783]:
+                    - link "Curd" [ref=e784] [cursor=pointer]:
+                      - /url: /cn/dairy-bread-eggs/yogurts-dahi/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/4e975d7a-b3f9-4958-99e9-cd96cb7e7b0b
+                    - text: "|"
+                  - listitem [ref=e785]:
+                    - link "Hukka flavour" [ref=e786] [cursor=pointer]:
+                      - /url: /cn/paan-corner/hookah-needs/cid/cd50825e-baf8-47fe-9abc-ed9556122a9a/scid/30ff2f8f-2a98-43c9-b34b-d1463a6398ce
+                    - text: "|"
+                  - listitem [ref=e787]:
+                    - link "Paan shop near me" [ref=e788] [cursor=pointer]:
+                      - /url: /cn/paan-corner/cigarettes/cid/cd50825e-baf8-47fe-9abc-ed9556122a9a/scid/5bcbee47-7c83-4279-80f0-7ecc068496df
+                    - text: "|"
+                  - listitem [ref=e789]:
+                    - link "Eggs price" [ref=e790] [cursor=pointer]:
+                      - /url: /cn/dairy-bread-eggs/eggs/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/d638f064-e7f3-4161-b692-a3f472c64020
+                    - text: "|"
+                  - listitem [ref=e791]:
+                    - link "Cheese slice" [ref=e792] [cursor=pointer]:
+                      - /url: /cn/dairy-bread-eggs/cheese/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/f594b28a-4775-48ac-8840-b9030229ff87
+                    - text: "|"
+                  - listitem [ref=e793]:
+                    - link "Fresh fruits" [ref=e794] [cursor=pointer]:
+                      - /url: /cn/fruits-vegetables/fresh-fruits/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/09e63c15-e5f7-4712-9ff8-513250b79942
+                    - text: "|"
+                  - listitem [ref=e795]:
+                    - link "Fresh vegetables" [ref=e796] [cursor=pointer]:
+                      - /url: /cn/fruits-vegetables/fresh-vegetables/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/b4827798-fcb6-4520-ba5b-0f2bd9bd7208
+                    - text: "|"
+                  - listitem [ref=e797]:
+                    - link "Refined oil" [ref=e798] [cursor=pointer]:
+                      - /url: /cn/atta-rice-oil-dals/oil/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/2b5e863c-9497-46ae-a7e9-85f6ef7380da
+                    - text: "|"
+                  - listitem [ref=e799]:
+                    - link "Butter price" [ref=e800] [cursor=pointer]:
+                      - /url: /cn/dairy-bread-eggs/butter/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/62b2b1eb-cd07-41b2-b567-cc878d2287fc
+                    - text: "|"
+                  - listitem [ref=e801]:
+                    - link "Paneer price" [ref=e802] [cursor=pointer]:
+                      - /url: /cn/dairy-bread-eggs/paneer-cream/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/1806412f-190a-46b1-be42-4237a4146eb1
+            - heading "Categories" [level=3] [ref=e803]
+            - list [ref=e805]:
+              - listitem [ref=e806]:
+                - link "Fruits & Vegetables" [ref=e807] [cursor=pointer]:
+                  - /url: /cn/fruits-vegetables/fresh-fruits/cid/64374cfe-d06f-4a01-898e-c07c46462c36/scid/09e63c15-e5f7-4712-9ff8-513250b79942
+                  - paragraph [ref=e808]: Fruits & Vegetables
+              - listitem [ref=e809]:
+                - link "Atta, Rice, Oil & Dals" [ref=e810] [cursor=pointer]:
+                  - /url: /cn/atta-rice-oil-dals/top-picks/cid/2f7190d0-7c40-458b-b450-9a1006db3d95/scid/84f270cf-ae95-4d61-a556-b35b563fb947
+                  - paragraph [ref=e811]: Atta, Rice, Oil & Dals
+              - listitem [ref=e812]:
+                - link "Masala & Dry Fruits" [ref=e813] [cursor=pointer]:
+                  - /url: /cn/masala-dry-fruits-more/top-picks/cid/0c2ccf87-e32c-4438-9560-8d9488fc73e0/scid/8b44cef2-1bab-407e-aadd-29254e6778fa
+                  - paragraph [ref=e814]: Masala & Dry Fruits
+              - listitem [ref=e815]:
+                - link "Sweet Cravings" [ref=e816] [cursor=pointer]:
+                  - /url: /cn/sweet-cravings/top-picks/cid/adab2f81-7140-4fe9-b8cf-3d809f40e38a/scid/002a4a04-fbc0-4fd9-a259-eb95158f8067
+                  - paragraph [ref=e817]: Sweet Cravings
+              - listitem [ref=e818]:
+                - link "Frozen Food & Ice Creams" [ref=e819] [cursor=pointer]:
+                  - /url: /cn/frozen-food-ice-creams/top-picks/cid/aae1447d-1403-4a5c-a65f-bcb3afb93b5e/scid/98beb18c-0205-4267-9a30-7a749bec1b63
+                  - paragraph [ref=e820]: Frozen Food & Ice Creams
+              - listitem [ref=e821]:
+                - link "Baby Food" [ref=e822] [cursor=pointer]:
+                  - /url: /cn/packaged-food/baby-food/cid/5736ad99-f589-4d58-a24b-a12222320a37/scid/5eef200f-d318-4dad-90bd-ccc579d165f3
+                  - paragraph [ref=e823]: Baby Food
+              - listitem [ref=e824]:
+                - link "Dairy, Bread & Eggs" [ref=e825] [cursor=pointer]:
+                  - /url: /cn/dairy-bread-eggs/top-picks/cid/4b938e02-7bde-4479-bc0a-2b54cb6bd5f5/scid/b26b6bcf-7c81-48e7-a9bc-fec3825bad2a
+                  - paragraph [ref=e826]: Dairy, Bread & Eggs
+              - listitem [ref=e827]:
+                - link "Cold Drinks & Juices" [ref=e828] [cursor=pointer]:
+                  - /url: /cn/cold-drinks-juices/top-picks/cid/947a72ae-b371-45cb-ad3a-778c05b64399/scid/7dceec53-78f9-4f06-83d7-c8edd9c2f71a
+                  - paragraph [ref=e829]: Cold Drinks & Juices
+              - listitem [ref=e830]:
+                - link "Munchies" [ref=e831] [cursor=pointer]:
+                  - /url: /cn/munchies/top-picks/cid/d2c2a144-43cd-43e5-b308-92628fa68596/scid/d648ea7c-18f0-4178-a202-4751811b086b
+                  - paragraph [ref=e832]: Munchies
+              - listitem [ref=e833]:
+                - link "Meats, Fish & Eggs" [ref=e834] [cursor=pointer]:
+                  - /url: /cn/meats-fish-eggs/top-picks/cid/4654bd8a-fb30-4ee1-ab30-4bf581b6c6e3/scid/b6fbf886-79f1-4a34-84bf-4aed50175418
+                  - paragraph [ref=e835]: Meats, Fish & Eggs
+              - listitem [ref=e836]:
+                - link "Breakfast & Sauces" [ref=e837] [cursor=pointer]:
+                  - /url: /cn/breakfast-sauces/top-picks/cid/f804bccc-c565-4879-b6ab-1b964bb1ed41/scid/68922181-4e0e-4a6b-9862-cf1a02ba240e
+                  - paragraph [ref=e838]: Breakfast & Sauces
+              - listitem [ref=e839]:
+                - link "Tea, Coffee & More" [ref=e840] [cursor=pointer]:
+                  - /url: /cn/tea-coffee-more/top-picks/cid/d7e98d87-6850-4cf9-a37c-e4fa34ae302c/scid/e6763c2d-0bf3-4332-82e4-0c8df1c94cad
+                  - paragraph [ref=e841]: Tea, Coffee & More
+              - listitem [ref=e842]:
+                - link "Biscuits" [ref=e843] [cursor=pointer]:
+                  - /url: /cn/biscuits/top-picks/cid/2552acf2-2f77-4714-adc8-e505de3985db/scid/3a10723e-ba14-4e5c-bdeb-a4dce2c1bec4
+                  - paragraph [ref=e844]: Biscuits
+              - listitem [ref=e845]:
+                - link "Makeup & Beauty" [ref=e846] [cursor=pointer]:
+                  - /url: /cn/makeup-beauty/top-picks/cid/2e5eae34-1666-4ddc-8903-76e6547f72e4/scid/e64390a2-eaaa-4f23-b1a6-422df5e2af60
+                  - paragraph [ref=e847]: Makeup & Beauty
+              - listitem [ref=e848]:
+                - link "Bath & Body" [ref=e849] [cursor=pointer]:
+                  - /url: /cn/bath-body/shampoo-conditioner/cid/26e64367-19ad-4f80-a763-42599d4215ee/scid/cbc00f48-d856-4900-ad3e-859f332f199b
+                  - paragraph [ref=e850]: Bath & Body
+              - listitem [ref=e851]:
+                - link "Cleaning Essentials" [ref=e852] [cursor=pointer]:
+                  - /url: /cn/cleaning-essentials/liquid-detergents-additives/cid/1a7e46a8-e627-450f-8960-490b550eeee6/scid/dfb37880-b40f-4783-9502-a56e12edbabc
+                  - paragraph [ref=e853]: Cleaning Essentials
+              - listitem [ref=e854]:
+                - link "Home Needs" [ref=e855] [cursor=pointer]:
+                  - /url: /cn/home-needs/top-picks/cid/ac7b3ee1-98cb-48b8-8c62-27f47b4185a2/scid/e23f3966-4135-4aa2-88ca-0baa7dce1e68
+                  - paragraph [ref=e856]: Home Needs
+              - listitem [ref=e857]:
+                - link "Electricals & Accessories" [ref=e858] [cursor=pointer]:
+                  - /url: /cn/electricals-accessories/top-picks/cid/966dc8a0-8f21-420e-a897-8dd70b4228f6/scid/7734eb25-787d-4929-ab87-60d48b1391cb
+                  - paragraph [ref=e859]: Electricals & Accessories
+              - listitem [ref=e860]:
+                - link "Hygiene & Grooming" [ref=e861] [cursor=pointer]:
+                  - /url: /cn/hygiene-grooming/feminine-hygiene/cid/875671b0-ec18-42c7-9749-c2cf165509fa/scid/1774e2ec-d3e9-4387-bf8b-661bacf44f1b
+                  - paragraph [ref=e862]: Hygiene & Grooming
+              - listitem [ref=e863]:
+                - link "Health & Baby Care" [ref=e864] [cursor=pointer]:
+                  - /url: /cn/health-baby-care/sexual-wellness/cid/46853481-25d4-4126-947b-c6d96f0669f6/scid/95c866f4-0647-4368-9bb4-88ca0ff66ab0
+                  - paragraph [ref=e865]: Health & Baby Care
+              - listitem [ref=e866]:
+                - link "Homegrown Brands" [ref=e867] [cursor=pointer]:
+                  - /url: /cn/homegrown-brands/tea-coffee/cid/2223e3e6-334d-4aa8-8e22-dcf577faa933/scid/353b3339-3f85-416d-b662-9c42685c96ce
+                  - paragraph [ref=e868]: Homegrown Brands
+              - listitem [ref=e869]:
+                - link "Paan Corner" [ref=e870] [cursor=pointer]:
+                  - /url: /cn/paan-corner/cigarettes/cid/cd50825e-baf8-47fe-9abc-ed9556122a9a/scid/5bcbee47-7c83-4279-80f0-7ecc068496df
+                  - paragraph [ref=e871]: Paan Corner
+          - generic [ref=e873]:
+            - generic [ref=e874]:
+              - generic [ref=e875]:
+                - link "instagram" [ref=e876] [cursor=pointer]:
+                  - /url: https://www.instagram.com/zeptonow/
+                - link "twitter" [ref=e877] [cursor=pointer]:
+                  - /url: https://x.com/ZeptoNow
+                - link "facebook" [ref=e878] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Zeptonow/
+                - link "linkedin" [ref=e879] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/zeptonow/
+              - paragraph [ref=e880]: © Zepto Marketplace Private Limited
+              - paragraph [ref=e881]: "fssai lic no : 11224999000872"
+            - generic [ref=e882]:
+              - generic [ref=e883]:
+                - link "Home" [ref=e884] [cursor=pointer]:
+                  - /url: /
+                  - paragraph [ref=e885]: Home
+                - link "Delivery Areas" [ref=e886] [cursor=pointer]:
+                  - /url: /s/del-areas
+                  - paragraph [ref=e887]: Delivery Areas
+                - link "Careers" [ref=e888] [cursor=pointer]:
+                  - /url: https://zeptonow.com/careers
+                  - paragraph [ref=e889]: Careers
+                - link "Customer Support" [ref=e890] [cursor=pointer]:
+                  - /url: /s/customer-support
+                  - paragraph [ref=e891]: Customer Support
+                - link "Press" [ref=e892] [cursor=pointer]:
+                  - /url: /s/press
+                  - paragraph [ref=e893]: Press
+                - link "Mojo - a Zepto Blog" [ref=e894] [cursor=pointer]:
+                  - /url: /blog
+                  - paragraph [ref=e895]: Mojo - a Zepto Blog
+                - link "Zepto Recipes" [ref=e896] [cursor=pointer]:
+                  - /url: /pip/Explore%20All%20Recipes/100000315
+                  - paragraph [ref=e897]: Zepto Recipes
+              - generic [ref=e898]:
+                - link "Privacy Policy" [ref=e899] [cursor=pointer]:
+                  - /url: /s/privacy-policy
+                  - paragraph [ref=e900]: Privacy Policy
+                - link "Terms of Use" [ref=e901] [cursor=pointer]:
+                  - /url: /s/terms-of-service
+                  - paragraph [ref=e902]: Terms of Use
+                - link "Responsible Disclosure Policy" [ref=e903] [cursor=pointer]:
+                  - /url: /s/responsible-disclosure-policy
+                  - paragraph [ref=e904]: Responsible Disclosure Policy
+                - link "Sell on Zepto" [ref=e905] [cursor=pointer]:
+                  - /url: https://brands.zepto.co.in
+                  - paragraph [ref=e906]: Sell on Zepto
+                - link "Deliver with Zepto" [ref=e907] [cursor=pointer]:
+                  - /url: https://www.zeptonow.com/s/delivery-partners
+                  - paragraph [ref=e908]: Deliver with Zepto
+                - link "Franchise with Zepto" [ref=e909] [cursor=pointer]:
+                  - /url: https://franchise.zepto.co.in/growth-partner
+                  - paragraph [ref=e910]: Franchise with Zepto
+            - generic [ref=e911]:
+              - paragraph [ref=e912]: Download App
+              - generic [ref=e913]:
+                - button "Get it on play store" [ref=e914] [cursor=pointer]:
+                  - paragraph [ref=e915]: Get it on play store
+                - button "Get it on app store" [ref=e916] [cursor=pointer]:
+                  - paragraph [ref=e917]: Get it on app store
+    - region "Notifications alt+T"
+  - alert [ref=e918]: Tablet - Buy Tablet Online at Best Price Near You | Zepto
+```
